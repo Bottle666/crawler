@@ -1,0 +1,1182 @@
+//热歌榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=865&mas=006a64bb77be009727a21ca3baf23b33bab0e2f7f4ab077e6b54e1&as=a1054fe9cba1dc15212159&ts=1553069339
+//飙升榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=866&mas=0043afe1ee174c4b2b2de94652643751b77e935389c600c2f966ae&as=a1951f0917435c75811315&ts=1553069367
+//流行榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=1&mas=0027ae60eb8b34a2c1c953b23a8377bb14096900c03ff42d1ea4e1&as=a1a57fe910c67c75414456&ts=1553069408
+//新歌榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=6631448622997179150&mas=00f50c569db0a756a03a6f00c3d3be7c4a6c4a920e5a86e566d8d8&as=a155cf595798fcf5c19068&ts=1553069447
+//SWAG
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=31&mas=002c6805c07ab84ea03c0e3b18eddfad75d8e38d7ff5f7038ad6a8&as=a185af19243a3c25519118&ts=1553069476
+//原创
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=860&mas=00c7a3ea19f52b28294e051afd1e40ec486ecc30c72875f699d6a8&as=a1d5cff9db8bac55510818&ts=1553069499
+//国风
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=20&mas=00e8c450ab78cf0aa94ca9f39c0ab0168aece4a291718ee394c4e1&as=a155ff09698d5c25918150&ts=1553069529
+//激萌
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=87&mas=007186bc41eb9afd8c49f9283a5a21126911198df0dc14ccada4e1&as=a1657f99e303dcb6b16256&ts=1553069619
+//配乐
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=84&mas=008d6799095a0a0f503d7d259af769382fac99e80def65bd10d288&as=a1b59fa986468c66611938&ts=1553069670
+//热歌榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=6616178533779802884&mas=0010b1344d9a267ead1e59d2c78c6b7dc101a3b52093200ee4e727&as=a1a52f59c917dcb6810094&ts=1553069689
+//飙升榜
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=6616178774952119044&mas=006a005708f8ccdf1de2246fa0cb5865e3e3cbef24099d3787cf31&as=a105df09f01a9cb6010380&ts=1553069728
+//翻唱大挑战
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=11&mas=00943738f3d5fde554e9e7fa7dee7649db80331b121f042c3f88d7&as=a125ffb995bc6ca6411162&ts=1553069765
+//说唱
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=18&mas=00c1c51777d7b36bfad0a89864d613c8a10180e1b00215945d0a9e&as=a125af39683e8c96f15523&ts=1553069800
+//爱吃爱旅行
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=6601750711774644995&mas=00510c4bb12a97763bda91326800ffdca3d5d5cec924559efd26a8&as=a135af795ac0dc27811017&ts=1553069834
+//影视原声
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=9&mas=009e60936dfe5a4e7305cb1a3c4e467ad1f7c18a70056f680784e7&as=a1358f2907120ce7b19452&ts=1553069863
+//日韩
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=5&mas=009e517934797a997c57b47f0b567cc8af4d507cc9967489e3072e&as=a195cf097a5a3c07018193&ts=1553069994
+//ACG
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=4&mas=0096b25f30d2a5006f34b7cbe26f577b99fc1f573e6208382baa91&as=a135ff89031c6c67c12526&ts=1553070019
+//生活
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=114&mas=00580250c2ea475aa3b964a7637bb5d3b35bf8dda6aecc247720c8&as=a165bf99b4be5c07c19877&ts=1553070052
+//搞怪
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=90&mas=0027f327230809bbb06959a8a530ffecb6e4189fa9bc021d2b6ebe&as=a1d57f2958906c58814005&ts=1553070088
+//经典
+https://aweme.snssdk.com/aweme/v1/music/list/?iid=30600516332&ac=WIFI&os_api=18&app_name=aweme&channel=App%20Store&idfa=D065159C-A8B6-4D89-8B13-F4C785A53669&device_platform=iphone&build_number=17805&vid=CA468973-B544-44F5-9163-A832328E4E9C&openudid=2d20f63eeb3ef810a3c6c0ac22827db69f28a7b3&device_type=iPhone6,2&app_version=1.7.8&device_id=7426456155&version_code=1.7.8&os_version=9.0.1&screen_width=640&aid=1128&cursor=0&mc_id=12&mas=00754b1a1644a52bf1b5e11297ea0213233b9fbf6fd2a83070672e&as=a1355f9918813cd8e16295&ts=1553070104
+
+
+
+====================================热歌榜====================================
+塑料姐妹-盖巧-http://p3-dy.bytecdn.cn/obj/1402c0005ad917b371286
+前方-60s燃血版-第一乐章-http://p3-dy.bytecdn.cn/obj/1a07f0005ced443e168eb
+不曾相遇-亦勋-http://p3-dy.bytecdn.cn/obj/1a08900052a31b4020265
+告白の夜-剪辑版2-Ayasa绚沙-http://p1-dy.bytecdn.cn/obj/155370006be628d9e31f3
+《屏住呼吸》-N1FT-N1FT超先队-http://p1-dy.bytecdn.cn/obj/155930006efc0a8c8ebec
+《有你就好》-张津涤&amp;倪可-张津涤-http://p3-dy.bytecdn.cn/obj/1a0560004c6688314109d
+不让你孤单part2-卓舒晨-http://p3-dy.bytecdn.cn/obj/1cba20000a757c6d04a2e
+浪漫画面-冉小冉-娱陆文化-http://p9-dy.bytecdn.cn/obj/1a0320003f1f410ddbfd5
+花，我全部都给你-剪辑版-胡芳芳-http://p3-dy.bytecdn.cn/obj/1a06c0002d03592ea4cab
+《只是曾经》52秒-后米音乐-http://p3-dy.bytecdn.cn/obj/1a04a000321caabaf6a83
+《繁花落岸》-赵锴羿-http://p3-dy.bytecdn.cn/obj/173ae00051acd31dbf99b
+倚风听雨-鸾音社-http://p3-dy.bytecdn.cn/obj/1737b0000ab85f853af6e
+====================================飙升榜====================================
+打电话给你-秋秋-http://p9-dy.bytecdn.cn/obj/1cca900002e284d87c094
+照相機-舒涵-http://p3-dy.bytecdn.cn/obj/1a00d0004dc49a777d5d1
+我可不可以-剪辑版-DP龙猪-http://p3-dy.bytecdn.cn/obj/1a0360001df7fda389eb4
+情人节（剪辑版）-Ahu-http://p3-dy.bytecdn.cn/obj/1a04d000165174d3bc4b9
+Him&Her-红双囍-http://p1-dy.bytecdn.cn/obj/19ffc00039cd033e19bbc
+Mr.16罗隽永 - 草莓奶昔(Ft.Homeboy叶枫华)-Mr.16罗隽永-http://p9-dy.bytecdn.cn/obj/1739d0005bbf30efab038
+合适的-张力超-http://p3-dy.bytecdn.cn/obj/155e300014af3ffca96f4
+细数流年-剪辑版-贺世哲-http://p9-dy.bytecdn.cn/obj/155d900021cce62e425eb
+我是你的 你是我的-冯舆轩-冯舆轩-http://p3-dy.bytecdn.cn/obj/1a0110003da65c01b71d1
+怎么就喜欢你（Part.2)-郜白-http://p3-dy.bytecdn.cn/obj/1a0780003c63a97af0e3a
+Trap(prod by robins Lu)-吴壹-http://p3-dy.bytecdn.cn/obj/1a0520004bf7f5fc861a9
+小唯一大甜蜜（剪辑版）-汤雨衡-http://p22-dy.bytecdn.cn/obj/1a02d0001b3524074e642
+有你就好（剪辑版）-邱琢然-博轩音乐-http://p3-dy.bytecdn.cn/obj/1cbe9000091107d79dad6
+乘风破浪 副歌-周典奥-http://p22-dy.bytecdn.cn/obj/1a06900052f775a49e80d
+偷来的想念 ——剪辑版-李承夕-http://p9-dy.bytecdn.cn/obj/1a06b00023ab102550834
+出逃-罗之豪-http://p3-dy.bytecdn.cn/obj/1a06b0003c4fc113f6517
+寂寞了断-剪辑版-口袋宋江乐团-http://p3-dy.bytecdn.cn/obj/1a07d000273b5c934ccff
+====================================流行====================================
+你要的爱-戴佩妮-http://p9-dy.bytecdn.cn/obj/ies-music/1628334022011912.mp3
+小丑-朱星杰-http://p9-dy.bytecdn.cn/obj/1cbb100012bbcdc66d78e
+燃-剪辑版-白雪与藝乐团-http://p9-dy.bytecdn.cn/obj/1cc000001df8ac347bf30
+Chinatown-谭杰希-http://p3-dy.bytecdn.cn/obj/155da0004a41bb03e874d
+小奶狗-武艺-http://p1-dy.bytecdn.cn/obj/1a02f0001fcc80339fafa
+最好的我们(白色恋人版) -杨炅翰&严艺丹-http://p9-dy.bytecdn.cn/obj/1a03000033399ad36db07
+我也很想相信-林隆璇-http://p9-dy.bytecdn.cn/obj/1cbf80000c612ade119a6
+因为-AFar阿帆-http://p3-dy.bytecdn.cn/obj/1cbad0001b77530780323
+时光-尼格买提-http://p3-dy.bytecdn.cn/obj/1a0250003d3530639efcc
+相约世界（剪辑版）-张靓颖&蔡国庆&张杰&白雪-张靓颖&蔡国庆&张杰&白雪-http://p3-dy.bytecdn.cn/obj/1a07500040d8bbddf19a3
+GA GA-ANU-http://p3-dy.bytecdn.cn/obj/1a0110002259f0b75f8c4
+永恒的主题-丁世光-http://p9-dy.bytecdn.cn/obj/1a0210002ac6e1e6dde74
+抖音 新年抖来咪-蔡依林、摩登兄弟刘宇宁、抖音达人群星-http://p3-dy.bytecdn.cn/obj/155ef000540bb53f890fe
+團圓-蔡琴-http://p22-dy.bytecdn.cn/obj/155e60005ebc040f0e64f
+点赞新时代-乌兰图雅 -http://p1-dy.bytecdn.cn/obj/173a60005d46980197740
+给爹妈（剪辑版）-小柯-贼船船长-http://p9-dy.bytecdn.cn/obj/155b300036cd5e84e2da9
+We Are Champions-布兰登·霍华德:吴建豪-http://p3-dy.bytecdn.cn/obj/173b200004d2fe3f7d404
+Say GoodBye-孙盛希-http://p22-dy.bytecdn.cn/obj/173a300052622fdf36bb8
+永不独行（剪辑版2）-GAI&艾热-GAI & 艾热-http://p3-dy.bytecdn.cn/obj/1a0510004c8ae91ca0c64
+灯-李泫憙-李泫憙-http://p3-dy.bytecdn.cn/obj/155e80003a0b2e661910b
+迷路（剪辑版）-王蓉-http://p9-dy.bytecdn.cn/obj/1558e0003a71a221425ac
+只记今朝笑-好妹妹、陈粒、粒粒、焦迈奇、王加一-http://p3-dy.bytecdn.cn/obj/155f0000043cf1bc5d14f
+成名曲-陈奂仁-http://p1-dy.bytecdn.cn/obj/17388000046425825b9c5
+Chillaxing-安心亞-http://p3-dy.bytecdn.cn/obj/155680001227b0f56ab6f
+有可能的夜晚-曾轶可-http://p3-dy.bytecdn.cn/obj/1cbda0000a0fccb0bb8c1
+先别说以后-林隆璇-http://p1-dy.bytecdn.cn/obj/155a70003cff07d6ad6d1
+我渴望的我们-严艺丹 彦希-http://p3-dy.bytecdn.cn/obj/155b5000017d93b9c0362
+Moonlight (feat.袁娅维)[Remix]-潘玮柏-http://p3-dy.bytecdn.cn/obj/1555d00052d953e4ed3a1
+雍和宫的月亮-乐队LIVE版-郑钧-http://p3-dy.bytecdn.cn/obj/1558700028dcdb83478da
+====================================新歌====================================
+听 - 崔雨鑫-造梦嘉音乐-http://p9-dy.bytecdn.cn/obj/155f1000582ce48e77b50
+FaceTime-林恺伦Karencici -http://p9-dy.bytecdn.cn/obj/ies-music/1628310829154311.mp3
+飞行日记（剪辑版）-YTS-泽鹏文化-http://p9-dy.bytecdn.cn/obj/1cc8b00013245064b01ed
+画一个星星一个你 剪辑版-小星星Aurora-http://p9-dy.bytecdn.cn/obj/1cbfe0002155759ce4903
+我不在—剪辑版-李昊瀚（山野）-http://p9-dy.bytecdn.cn/obj/ies-music/1628324262132740.mp3
+寄给夏天的信（30s）-布袋良-http://p1-dy.bytecdn.cn/obj/1cc0c000097b33dc15026
+年华-任斌/马楠楠 -藥音乐-http://p3-dy.bytecdn.cn/obj/1cbca0000984147367f76
+Bad Girl 剪辑版-Swaggie杨舒涵-http://p1-dy.bytecdn.cn/obj/1cc0e000093e3617ffa84
+Him&Her-红双囍-http://p3-dy.bytecdn.cn/obj/19ffc00039cd033e19bbc
+还有多少个十年（原版）（剪辑版）-叶圣涛-叶圣涛-http://p9-dy.bytecdn.cn/obj/1cbcd0000cbdfa21c0eda
+大神带带我 剪辑版-菠萝赛东-http://p3-dy.bytecdn.cn/obj/13fd100038df922ba51ed
+我为你写的歌-关皓译-http://p1-dy.bytecdn.cn/obj/1cbc400022c5cb293bdea
+Simyee陈芯怡 - 草莓甜甜圈-SimYee陈芯怡-http://p1-dy.bytecdn.cn/obj/1a030000007c3b47c5dda
+别知己-海来阿木 阿呷拉古 曲比阿且-索氧music-http://p9-dy.bytecdn.cn/obj/1cc7600013344b4287f25
+如果明天阳光正好-胡言-http://p3-dy.bytecdn.cn/obj/1cc7e0000860a5fe73986
+Party Girl 《剪辑版》-SunnyHouse-http://p3-dy.bytecdn.cn/obj/173880000559dd030fc1f
+蝴蝶效应-鬼卞/房东的猫-http://p3-dy.bytecdn.cn/obj/1cbe30001985aa71f2e5c
+Dear Rachel-王宇-http://p9-dy.bytecdn.cn/obj/1cbda00010ae082eb6b1a
+她比我温柔吗-路默依-http://p22-dy.bytecdn.cn/obj/1cc0f0000632a66ad547c
+万能人之歌-坤音四子ONER-http://p9-dy.bytecdn.cn/obj/17385000524d29d5779de
+非鸡汤-文氓苏,寂瞳-http://p9-dy.bytecdn.cn/obj/1cca3000086fa57f8ce58
+大船-鞠红川-剪辑版-环球动音-http://p3-dy.bytecdn.cn/obj/1a0500003e81a448c99da
+青山里 - 黄春艳-造梦嘉音乐-http://p1-dy.bytecdn.cn/obj/1a04100031fbf4e7b3335
+浪漫星球-YoungG-http://p3-dy.bytecdn.cn/obj/1a07b00027bc5ef9f3167
+MOVIE - 唧唧JIJI-造梦嘉音乐-http://p3-dy.bytecdn.cn/obj/1a00600011a9ec380ad78
+不说再见-廖昌永&梅溪湖36子-合唱剪辑版-环球动音-http://p9-dy.bytecdn.cn/obj/1a05c00050362d8b2ab93
+On my way-挺齐全ALL IN 杨昊铭、丁立、侯锦尧-http://p9-dy.bytecdn.cn/obj/1cba100027047cd07aad5
+七秒记忆-李秉成-http://p3-dy.bytecdn.cn/obj/19ff300046c776bd610b1
+琵琶弦-鸾音社-http://p3-dy.bytecdn.cn/obj/1738200045139e93316f4
+KO铁板烧(Ft.Odaha7)（中国风）-Mr.16罗隽永-http://p3-dy.bytecdn.cn/obj/1a0740003b9ada8421659
+可爱烦人的男神-一口甜-盒声智能音乐-http://p9-dy.bytecdn.cn/obj/1a01f000442ca265d3201
+刺青（剪辑版）-虎二-大酱音乐-http://p22-dy.bytecdn.cn/obj/1a0470002d798f2bc9b8e
+Night Star-Simyee陈芯怡 x 罗隽永-http://p9-dy.bytecdn.cn/obj/155cc0002b595baa376ed
+解药-坤音娱乐BC221-http://p9-dy.bytecdn.cn/obj/1738f00052405c0010a3e
+长悲赋-音阙诗听-http://p3-dy.bytecdn.cn/obj/155ba0001f3d6900b9e5c
+雨天-罗之豪-独立乐-http://p9-dy.bytecdn.cn/obj/13fca00041a70af90a464
+NO WAY-TEAMSPARK火星团-http://p1-dy.bytecdn.cn/obj/173a20004d3e677a189ed
+我就是你的曹操-东南-http://p3-dy.bytecdn.cn/obj/1a05c00029c332a415245
+孤单世界-周鹏霄-http://p3-dy.bytecdn.cn/obj/1a05c00033b823e3c1554
+Valentine-街声StreetVoice-http://p9-dy.bytecdn.cn/obj/1a03e00009a6dac3a1304
+for-坤音四子ONER-http://p1-dy.bytecdn.cn/obj/1a0800002db6a188521be
+久我山的烟火-王子明-http://p9-dy.bytecdn.cn/obj/140010003fa200e09d4b1
+打电话给你-秋秋-http://p22-dy.bytecdn.cn/obj/1cca900002e284d87c094
+我可不可以-剪辑版-DP龙猪-http://p1-dy.bytecdn.cn/obj/1a0360001df7fda389eb4
+照相機-舒涵-http://p9-dy.bytecdn.cn/obj/1a00d0004dc49a777d5d1
+怎么就喜欢你（Part.2)-郜白-http://p3-dy.bytecdn.cn/obj/1a0780003c63a97af0e3a
+不让你孤单part2-卓舒晨-http://p1-dy.bytecdn.cn/obj/1cba20000a757c6d04a2e
+最迷人的妹（Part.1)-BigYear大年-http://p3-dy.bytecdn.cn/obj/155a00004b81882da7aac
+Riddle（剪辑版）-彦希-http://p1-dy.bytecdn.cn/obj/1a00e00046f75c5064557
+人辞故（剪辑版）-李袁杰-李袁杰-http://p9-dy.bytecdn.cn/obj/1737e0005204d4e9bb2df
+郭聪明 - 唱给你听-郭聪明-http://p22-dy.bytecdn.cn/obj/155a700042736f939b600
+姥姥家-崔一乔-http://p1-dy.bytecdn.cn/obj/155eb00059e618dd6dd13
+无期-剪辑版-石白其-http://p1-dy.bytecdn.cn/obj/9b710000b34b2ec7aa58
+前方-60s燃血版-第一乐章-http://p1-dy.bytecdn.cn/obj/1a07f0005ced443e168eb
+100万-Mr.OMG&于佐依-http://p22-dy.bytecdn.cn/obj/1a04500002180fe572e03
+彩虹-杨欧几-http://p9-dy.bytecdn.cn/obj/1a08a0004a57eb2617358
+归途-剪辑版-罗小黑-http://p3-dy.bytecdn.cn/obj/1415c0006316ec34aa173
+《小仙女》剪辑版-萧全/陈诗怡-萧全/陈诗怡-http://p3-dy.bytecdn.cn/obj/13fd000041f4109ac5f18
+20-廖效浓-http://p3-dy.bytecdn.cn/obj/1737e000136dadfc76879
+张掖的张-王敏-王敏-http://p3-dy.bytecdn.cn/obj/155d50005bf4108abb9c1
+念念不如忘-樊桐舟-http://p9-dy.bytecdn.cn/obj/19ffe0001ff1efba3d13a
+他（剪辑版）-任舒瞳-http://p1-dy.bytecdn.cn/obj/173a30003e895fa620fe9
+致你：所爱-王北车-http://p3-dy.bytecdn.cn/obj/155ac00041526a424f57f
+过敏-坤音四子ONER-http://p9-dy.bytecdn.cn/obj/1737900052be4dee5dee4
+红啦火啦牛啦发啦-阿牛-http://p3-dy.bytecdn.cn/obj/1557e000454e6943df697
+火车-坡上村-街声StreetVoice-http://p1-dy.bytecdn.cn/obj/1739f00051d4d08575a44
+说声我爱你-剪辑版-齐晨/小潘潘-http://p9-dy.bytecdn.cn/obj/1a07a0001b7d055deb592
+Say you love me T.a.t.A乐团-造梦嘉音乐-http://p3-dy.bytecdn.cn/obj/173840004e061d892199e
+小鹿乱撞-永彬Ryan.B / 狄迪（D-DAY）-http://p22-dy.bytecdn.cn/obj/13fc50006a06cf630475a
+come to me-剪辑版-梁琼元-carol琼-http://p9-dy.bytecdn.cn/obj/1405c0002c9ccb7f7f067
+终于勇敢了-Cindy袁咏琳-http://p9-dy.bytecdn.cn/obj/155ee0001de67405bbad6
+此间的少年-屿后南里乐团-http://p9-dy.bytecdn.cn/obj/173a2000555858b340567
+不过是一句分手吗-剪辑版-王金金-http://p3-dy.bytecdn.cn/obj/6bc400033fb90b5712be
+时间旅客-张希-http://p1-dy.bytecdn.cn/obj/155d1000293df162226a2
+扑通扑通-剪辑版-何美延-http://p22-dy.bytecdn.cn/obj/155ba000418f2911f2241
+比巴卜-于佐依-http://p3-dy.bytecdn.cn/obj/155b3000465be06c1986c
+小任性-黑崎子-Top-Music-http://p22-dy.bytecdn.cn/obj/13fe30006fa7bdcd97a6e
+新的冒险-挺齐全战队-http://p9-dy.bytecdn.cn/obj/155850004fcb3f8ee8799
+不安-郝云-http://p9-dy.bytecdn.cn/obj/1a0050003d337c040eb58
+带她回家（剪辑版）-DJ Baker-http://p9-dy.bytecdn.cn/obj/19ff10004298abd1f4616
+元气满满-冯提莫-http://p9-dy.bytecdn.cn/obj/155d80004bb9a8291f33f
+失眠联盟阵线-红双囍  h3R3-http://p3-dy.bytecdn.cn/obj/1739000052b15fdcec0d6
+五百年的拉菲-ChinoBroz-http://p3-dy.bytecdn.cn/obj/1400d0001ae49031c5a49
+TV STAR-芋头-http://p3-dy.bytecdn.cn/obj/a12500059b67867a1b84
+各自幸福-方柏深-http://p3-dy.bytecdn.cn/obj/155b9000499ce2213e130
+Do you like this Sunshine《剪辑版》-SunnyHouse-http://p9-dy.bytecdn.cn/obj/155cf00024a7f73f3f354
+俗气且油腻-BigYear大年-http://p3-dy.bytecdn.cn/obj/ies-music/1622811159306248.mp3
+红包红包-坤音四子ONER-http://p9-dy.bytecdn.cn/obj/13ff4000690b2b82b87bf
+这个冬季-王熙然-http://p1-dy.bytecdn.cn/obj/88a80003d4fbb4d82dd8
+家乡-缪杰-http://p9-dy.bytecdn.cn/obj/155ea0004c73c90f36574
+如果说，我永远都不再记得你—卡小卡（剪辑版）-卡小卡-http://p1-dy.bytecdn.cn/obj/155c20001c62445b9502b
+小船-暗杠-http://p3-dy.bytecdn.cn/obj/1a08b0004c96b66759227
+如前（剪辑版）-张一然-乐伢音乐-http://p9-dy.bytecdn.cn/obj/1a01200048996bd8b2887
+习惯孤独-南北方舟、恶梦Yk-http://p9-dy.bytecdn.cn/obj/1a04a0004c722a99b2593
+环游星空 - Gifty-造梦嘉音乐-http://p22-dy.bytecdn.cn/obj/1a02100058ff41e9c735f
+missing U-YoungG-http://p3-dy.bytecdn.cn/obj/17393000356ca0011e70b
+慢慢靠近我—吕程程-剪辑版-环球动音-http://p3-dy.bytecdn.cn/obj/1738b0000b892c52fcf1d
+游子吟（剪辑版）-A公馆乐队-尚音文化-http://p3-dy.bytecdn.cn/obj/173840002878ab1a45caa
+考不好 没关系？-抖音小助手-http://p9-dy.bytecdn.cn/obj/155a60004f504f91ba8cf
+《中意雷》-N1FT-N1FT超先队-http://p9-dy.bytecdn.cn/obj/1555a0006ef314fd8a639
+胡建人-杨晓川-http://p1-dy.bytecdn.cn/obj/173860002b834623c1033
+为你疯狂-永彬Ryan.B-http://p9-dy.bytecdn.cn/obj/155e50003e0b7c907a4b5
+从前的我们怎么了-王艺霖-http://p9-dy.bytecdn.cn/obj/155bc0002ffa4bf18b88b
+I am OK-贺敬轩-禾信-http://p22-dy.bytecdn.cn/obj/1556200062aef89023d3f
+通透（剪辑版）-陈亦云-http://p9-dy.bytecdn.cn/obj/1739400031ce7bbad6437
+幸福来得太突然-花生米音乐-http://p9-dy.bytecdn.cn/obj/1553d0005f7045ad24d58
+遗失的礼物-剪辑版-北京妙音鸟文化传媒有限公司-http://p9-dy.bytecdn.cn/obj/1739e000108fa4d5c2a78
+看对眼-张梦弘、林家驹-http://p9-dy.bytecdn.cn/obj/173820001454c7c14a616
+123456789(副歌剪辑版）-戴佳毅-http://p9-dy.bytecdn.cn/obj/1739b0000f275d93f1258
+고양이송（《学猫叫》韩文版）-尤沫，이승재（李承宰）-http://p1-dy.bytecdn.cn/obj/155ab00020fbfe068572b
+Loki-BC221-http://p1-dy.bytecdn.cn/obj/155390003ee13a201001d
+别说-邵百庭-http://p9-dy.bytecdn.cn/obj/155b20001b1d98cc17466
+你愿意做我女友吗？-剪辑版-MOONBOI-http://p3-dy.bytecdn.cn/obj/1554200047b6fc32663e8
+团体/twenty-N1FT超先队-http://p1-dy.bytecdn.cn/obj/1559c00066336e5e69c64
+明天去旅行-花与叔叔-造梦嘉音乐-http://p3-dy.bytecdn.cn/obj/ab4e00021e81dcd415c6
+满分爱情-沫 剪辑版-沫-http://p3-dy.bytecdn.cn/obj/13fe80006e59b81be0728
+我想要你的微信-张江晨BigChen-http://p3-dy.bytecdn.cn/obj/173940001413b97fe884d
+不要再老了，好吗-龙迦娜-http://p9-dy.bytecdn.cn/obj/155b400028d6f5c7f70fa
+勇敢到底-洪川-http://p9-dy.bytecdn.cn/obj/155960004f678b6a4042a
+L.S.W.L-Oran-http://p9-dy.bytecdn.cn/obj/173780004ffc4d8aa82e3
+人设（剪辑版）-孟凡明-http://p3-dy.bytecdn.cn/obj/173af0005040e7be3c8f7
+宝贝-徐秉龙-http://p9-dy.bytecdn.cn/obj/17388000503610bd94e8c
+果汁（剪辑版）—崔一少-崔一少-http://p3-dy.bytecdn.cn/obj/173a200050676c15a9f8c
+爱是甜甜圈-青春美少女组合-http://p3-dy.bytecdn.cn/obj/14022000266d75a653341
+Find-SunnyHouse-http://p1-dy.bytecdn.cn/obj/aweme-original-music/1621539960673283.mp3
+走过教堂那一天-田丹-http://p1-dy.bytecdn.cn/obj/ab1600001507878d4356
+小圆-暗杠-http://p3-dy.bytecdn.cn/obj/155f20001293375fd92a6
+姥姥-赵培（副歌剪辑版）-阔音文化-http://p3-dy.bytecdn.cn/obj/1554f0004189f9112c39e
+转回童年-芋头-http://p9-dy.bytecdn.cn/obj/13fbc0005cc4e1f747e9a
+力-李斯丹妮-http://p3-dy.bytecdn.cn/obj/155e00000e37586eb3441
+燕儿归-牛奶咖啡-http://p3-dy.bytecdn.cn/obj/155850003fd5b46bfe7a7
+在你我之间-季星星-http://p9-dy.bytecdn.cn/obj/1559200060a00ee216613
+你是几零后-剪辑版-吕程程-环球动音-http://p3-dy.bytecdn.cn/obj/155cb0001b2c6d4985494
+coco9-周星星-http://p9-dy.bytecdn.cn/obj/1738f00012c599ae816c1
+If Only You Could Know-Anton Zachary-http://p1-dy.bytecdn.cn/obj/155b7000295da9a58de9b
+Air Jordan-Pro-Z-http://p3-dy.bytecdn.cn/obj/15591000664269becffaa
+青春小马（剪辑版）-刘一墨-http://p3-dy.bytecdn.cn/obj/13fcf00070621368f268d
+你是我的-张欣尧-http://p9-dy.bytecdn.cn/obj/155a60003e2cbafabfc9f
+嗨-下一站传奇 嗨战队-http://p3-dy.bytecdn.cn/obj/155b90001e7e23e5f4a28
+荡然无存-陈柯宇-http://p9-dy.bytecdn.cn/obj/f37a0006a54250afb36c
+相爱慢慢-花与叔叔-http://p9-dy.bytecdn.cn/obj/1411c0001b7c0f6dfe21f
+同感-简弘亦-http://p9-dy.bytecdn.cn/obj/155d100001c6d81aa0e50
+两只小猪 （精华版）-蜜蜂少女队-http://p3-dy.bytecdn.cn/obj/155f10001915fc7df9fd9
+夜半 剪辑版-谢宇伦-http://p3-dy.bytecdn.cn/obj/155e50001a9c9b18287a8
+下一次天亮-魏晗（懋懋）-http://p3-dy.bytecdn.cn/obj/1553e0006bc63a9a2f44e
+1234567 剪辑版-银河少年团-http://p3-dy.bytecdn.cn/obj/1555f00058d6583c703f8
+萌芽-拉面儿-盒声智能音乐-http://p22-dy.bytecdn.cn/obj/1557800050ff6d74f0b72
+Chu Desu!-Chunnyt-http://p3-dy.bytecdn.cn/obj/173830000c66ec0022734
+这酸爽-芋头-http://p3-dy.bytecdn.cn/obj/173780001587583d0ee4e
+猛吃猛喝-超暖-http://p3-dy.bytecdn.cn/obj/141270004b5f61b7077c5
+Rainy boy（雨中男孩）-白举纲-http://p3-dy.bytecdn.cn/obj/155660006f7d38ccb0b27
+舒伯特玫瑰-你的叽叽-http://p22-dy.bytecdn.cn/obj/140df00030c9c9b7b20c0
+围绕-永彬Ryan.B(feat.DP龙猪)-http://p9-dy.bytecdn.cn/obj/155b1000029349874911b
+周末情侣-红双囍  YKEY-http://p1-dy.bytecdn.cn/obj/155870002b0525577717d
+着迷-Xi3R-http://p1-dy.bytecdn.cn/obj/1401d0003f9cf1c94f82f
+1234喜欢你-王欣宇-http://p3-dy.bytecdn.cn/obj/1556e0006bfe26b6cee11
+SAYONARA-厉娜-http://p9-dy.bytecdn.cn/obj/155a700017c3fe5f7f4fc
+说爱你-刘至佳-http://p3-dy.bytecdn.cn/obj/140590005fb2371e07487
+就这样吧（剪辑版）-程安/0-28-http://p3-dy.bytecdn.cn/obj/13feb00057fd4549b817e
+爱你（剪辑版）-赵少搏-http://p1-dy.bytecdn.cn/obj/1404b000245fd2687bf16
+Shout It Out-王以太-http://p3-dy.bytecdn.cn/obj/15547000693d1678386ae
+Killer Nong-廖效浓-http://p3-dy.bytecdn.cn/obj/831d0001b9ca602c4f6e
+让我xx的是你-旺弟Diddy-光先音乐-http://p9-dy.bytecdn.cn/obj/140530000578bbb5e548f
+带你回家-CNBALLER；丁世光-http://p3-dy.bytecdn.cn/obj/13fde000430b4eb1d6c20
+当你走了 - 吾尊 -造梦嘉音乐-http://p22-dy.bytecdn.cn/obj/13fef0001f7e0d2730a66
+不待-忱忱老板-http://p9-dy.bytecdn.cn/obj/13fd700022f9b25df3874
+184-咖喱3000-http://p3-dy.bytecdn.cn/obj/140590006f26c15698c42
+我离开，他却不习惯了-陈壹千-http://p3-dy.bytecdn.cn/obj/1401b0000e9d295270db4
+落日余晖-剪辑版2-柳程驭-http://p1-dy.bytecdn.cn/obj/13ffa00013dc0b8d896f3
+超能力（剪辑版）-后海大鲨鱼乐队-http://p22-dy.bytecdn.cn/obj/1401a000308f3c5e47be9
+每年这两天我只喜欢你-刘思鉴-http://p9-dy.bytecdn.cn/obj/1558200029724e7797d6f
+Mr.16罗隽永 - Fly Away-Mr.16罗隽永-http://p9-dy.bytecdn.cn/obj/7508000735113dc429a0
+奢侈-KUCCI-http://p9-dy.bytecdn.cn/obj/140670005a23715da28fb
+安-于湉-http://p3-dy.bytecdn.cn/obj/13fc50003a300c3f30869
+卤煮火烧 30秒版 （副歌+rap）-张伯宏-http://p9-dy.bytecdn.cn/obj/1414d00018d1d2e17d217
+Say Goodbye-吴佳煜-http://p9-dy.bytecdn.cn/obj/155980002396f12c99650
+澳门欢迎你-关喆-http://p3-dy.bytecdn.cn/obj/13fb90006427853d5c005
+眼保健操(戏精版)-孟想Mandy-http://p3-dy.bytecdn.cn/obj/1402600039bcf8316e44f
+来日无常-丁倩倩-娱陆文化-http://p3-dy.bytecdn.cn/obj/140d60000c7bca81bd0b1
+一百万只猫-苏妙玲-http://p3-dy.bytecdn.cn/obj/f12000046fdd18fbdd1e
+橙梦-张希+陈鸿宇-http://p22-dy.bytecdn.cn/obj/f2e900019d5981afba78
+但凡-乌糟兽-http://p1-dy.bytecdn.cn/obj/f33f0001a41702e3ec61
+幻化-王瑞淇-http://p9-dy.bytecdn.cn/obj/1403d00014193c46a2572
+触电-徐良；冯提莫-http://p9-dy.bytecdn.cn/obj/13fb7000212d5b4cf2baf
+秋叶先生-超级对撞机乐队-http://p1.pstatp.com/obj/d14900011690dd308028
+恋爱的犀牛-黄雨篱-http://p3-dy.bytecdn.cn/obj/f275000543384fa82690
+认真地老去-张希+曹方-http://p3-dy.bytecdn.cn/obj/f2d300054b0a644e06c6
+Blue Man (忧郁的人)-梁晓雪Kulu-http://p99.pstatp.com/obj/f27500033fcef549c2e2
+世界有你足矣-剪辑版-尹晨-http://p99.pstatp.com/obj/c2fb00066ef970106eb4
+从陕西到拉萨要多久-牛犇-http://p9-dy.bytecdn.cn/obj/c2f30000acc743ae5f52
+湖中央-王贺俊-http://p22-dy.bytecdn.cn/obj/a6b90003014353e711f6
+关于郑州的记忆-李志-http://p3-dy.bytecdn.cn/obj/29c900002b07c2e5e4f2
+Lost Stars-Keira Knightley-http://p3-dy.bytecdn.cn/obj/619b0001504eedf45255
+老友-张蓝方-http://p3-dy.bytecdn.cn/obj/6bcd0002447d6edcb244
+当我看你的时候-阿力普&A-Mac-http://p3-dy.bytecdn.cn/obj/13fd30001f026bd7dbec9
+blabla-李斯丹妮-http://p3-dy.bytecdn.cn/obj/13ff800068a7fe1a6b5ec
+假装-范世錡-http://p3-dy.bytecdn.cn/obj/1408b0004a134933b71c5
+还是会想你-文彦杰-http://p1-dy.bytecdn.cn/obj/13f0e00056ac6e7ca0355
+日落-果味VC-http://p3-dy.bytecdn.cn/obj/1408b0006f3d50e0ef1e1
+慢一点少一点-武艺-http://p3-dy.bytecdn.cn/obj/1419f0001a66bde25185a
+传承之花-黄英-http://p9-dy.bytecdn.cn/obj/13fe00001f96f1a757c34
+早安和你-李文-http://p3-dy.bytecdn.cn/obj/140f20003d435b314cea3
+告别演出-何方程-http://p22-dy.bytecdn.cn/obj/141a70000c9ad89457784
+Don't tell mama-宁桓宇-http://p9-dy.bytecdn.cn/obj/140fa000647ce682f999a
+即便吉他换成了阮-讲究制噪-DJ Baker-http://p3-dy.bytecdn.cn/obj/13ef50004165b69117d5c
+作者（feat. 秦四风）-关喆-http://p3-dy.bytecdn.cn/obj/140080000e6468f232915
+尊严(pt1)-谢峥、金泽男-http://p3-dy.bytecdn.cn/obj/140bb0005dfef784be959
+Ma Boy~❤-曾婕Joey.Z-http://p22-dy.bytecdn.cn/obj/140be0001c040812eb746
+《时而》剪辑版-段林希-http://p1-dy.bytecdn.cn/obj/f37800022e6d462732db
+====================================SWAG====================================
+Alok & Felix Jaehn-All The Lies (feat. The Vamps)-http://p3-dy.bytecdn.cn/obj/ies-music/1628504174691340.mp3
+Sofia Reyes-R.I.P (feat. Rita Ora & Anitta)-http://p9-dy.bytecdn.cn/obj/ies-music/1628504174285827.mp3
+Man Of The Year-Lil Poppa-http://p9-dy.bytecdn.cn/obj/ies-music/1628339956270093.mp3
+ More In The Morning-Angelica Vila -http://p3-dy.bytecdn.cn/obj/ies-music/1628339963150339.mp3
+ I Can't Get Enough-benny blanco, Tainy, Selena Gomez, J Balvin -http://p3-dy.bytecdn.cn/obj/ies-music/1628339974256651.mp3
+ Now That I Found You-Carly Rae Jepsen -http://p9-dy.bytecdn.cn/obj/ies-music/1628339945375752.mp3
+Graves-抖音小助手-http://p3-dy.bytecdn.cn/obj/ies-music/1628329813307395.mp3
+小偷-Laoz G / Melo lv-http://p3-dy.bytecdn.cn/obj/ies-music/1628076810860558.mp3
+Friday-抖音小助手Cg-http://p22-dy.bytecdn.cn/obj/ies-music/1628240627345416.mp3
+ChakYoun9 - Keep Going - 继续前行-山东万汇文化传媒有限公司-http://p1-dy.bytecdn.cn/obj/1cbbd0000fbc656f0b6b3
+Live It Up-Kristian Kostov / 陈梓童-http://p9-dy.bytecdn.cn/obj/ies-music/1628224028601358.mp3
+pit -抖音小助手-http://p3-dy.bytecdn.cn/obj/ies-music/1628224728049671.mp3
+Greet Her -Lil Mosey -http://p3-dy.bytecdn.cn/obj/1cc7500017509d4b8cda7
+粤剧《帝女花·香夭》Remix-新乐府⼁feat.彭庆华&李嘉宜-http://p22-dy.bytecdn.cn/obj/1cc7b000175ed4479e8b2
+ Deep-Julia Michaels -http://p9-dy.bytecdn.cn/obj/1cc1800000bdb9fcf2079
+ 7 Minutes-Dean Lewis -http://p9-dy.bytecdn.cn/obj/1cbaa00048ca8a62d0aa2
+ wish you were gay-Billie Eilish -http://p9-dy.bytecdn.cn/obj/1cbcd00023b1f4794c137
+ Bloqueo-Lele Pons & Fuego -http://p3-dy.bytecdn.cn/obj/1cbb200023b14ba2b213d
+ Bow Down-I Prevail -http://p9-dy.bytecdn.cn/obj/1cc04000238563653133c
+Cloudz-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cbb70001e4d25405110e
+Monstruo-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cbc3000141347ed863db
+I Do (feat. Andreas Moss)-Zonderling-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview114/v4/50/9d/62/509d620b-7cdd-5af3-578e-442e19f4b715/mzaf_7415425654346953869.plus.aac.p.m4a
+pluck-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cbd90001539abc466cfc
+ Flawless-SKIY -http://p3-dy.bytecdn.cn/obj/1cbcd00011b08cfe72800
+ Love It Like That (feat. Nyanda) -Pink Panda -http://p9-dy.bytecdn.cn/obj/1cbd000011ad33f142e46
+ Eyes Closed-Anjulie -http://p3-dy.bytecdn.cn/obj/1cbb800011a57793d997b
+ Eins Zwei-Ummet Ozcan x Mo-Do-http://p9-dy.bytecdn.cn/obj/1cbdf000119cb2239fbe4
+ Mirai-Madison Mars -http://p3-dy.bytecdn.cn/obj/1cc0600011c965ac403d4
+Jump-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cc0d000055f7fe2c0acb
+Sahara-抖音小助手-http://p9-dy.bytecdn.cn/obj/1cbe50000d03260e9413c
+Niebla-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cc0b000002a8f7336652
+TT-抖音小助手-http://p9-dy.bytecdn.cn/obj/1a038000399f2cfc2d841
+姐妹带你搞事 - 王金金-造梦嘉音乐-http://p1-dy.bytecdn.cn/obj/1a05000038cfe59fd44d3
+Maschine-抖音小助手 程昭瑜-http://p22-dy.bytecdn.cn/obj/1a0350003c34a276249a7
+ 11 Minutes ft. Travis Barker-YUNGBLUD, Halsey -http://p9-dy.bytecdn.cn/obj/1a040000163ee3a7c6eaf
+ Tudo Bom-Static & Ben El with J Balvin -http://p3-dy.bytecdn.cn/obj/1a02c000299a03a92b3ad
+ Keep It Simple-James Barker Band -http://p3-dy.bytecdn.cn/obj/1a03c000411666f45738b
+ 365-Zedd, Katy Perry -http://p3-dy.bytecdn.cn/obj/1a038000353d3ab7cb27d
+ Otherworld-BLR x NVO -http://p3-dy.bytecdn.cn/obj/19ff40001c777c0993c20
+ Supersonic-Swanky Tunes -http://p3-dy.bytecdn.cn/obj/1401b0003f6fb33144e26
+ Last Hurrah-Bebe Rexha -http://p22-dy.bytecdn.cn/obj/1a02a000532dab58dd7f3
+ Teenage Crime-Yves V & Matthew Hill vs. Adrian Lux -http://p3-dy.bytecdn.cn/obj/1a02b00019bb3d028fdaa
+ Leyla-Mesto -http://p3-dy.bytecdn.cn/obj/1a02d000458dc2d68f4b1
+ Girls & Boys-Bali Bandits -http://p9-dy.bytecdn.cn/obj/1a05b000556890780e814
+Sweet psycho-抖音小助手Cg-http://p3-dy.bytecdn.cn/obj/1a03e00029f64e79cd9ab
+Going-Ll（抖音小助手）-http://p3-dy.bytecdn.cn/obj/19fff000389d5e2f8b741
+With You-Cuebrick & Jochen Miller-http://p3-dy.bytecdn.cn/obj/13f980005bd964b338692
+ Trigger Me-Malifoo -http://p3-dy.bytecdn.cn/obj/1a01500029e851ec81fa3
+ Crazy Things (feat-Hard Rock Sofa & Angelina Lavo -http://p3-dy.bytecdn.cn/obj/1a0240004b30a1bce2505
+ Bug A Boo-Joe Stone -http://p3-dy.bytecdn.cn/obj/1a01500029e8949c3a6f0
+Why Don't We-Austin Mahone -http://p3-dy.bytecdn.cn/obj/1a03900055779e4fecac0
+When You Left Me - Stories-Stories-http://p3-dy.bytecdn.cn/obj/1a0010004a1b34c2cfbb9
+忽然想你的时候-原子邦妮-http://p3-dy.bytecdn.cn/obj/155d800026a10364f050b
+Monday-抖音小助手-http://p1-dy.bytecdn.cn/obj/1a07d0005da7345687a91
+No Sleep-Martin Garrix feat. Bonn-http://p3-dy.bytecdn.cn/obj/1a02200053dcd4c09d4b4
+My Heart-Christopher-http://sf-tk-sg.ibytedtos.com/obj/tiktok-obj/1626173431676929
+Leyla-Mesto-http://p22-dy.bytecdn.cn/obj/1a06e00051bd6f7a6764d
+Cell-抖音小助手-http://p9-dy.bytecdn.cn/obj/1a01c0004060891eb9c3f
+TRP-抖音小助手Cg-http://p9-dy.bytecdn.cn/obj/1a0470004535ee1ba0471
+Following The Way-程昭瑜-http://p9-dy.bytecdn.cn/obj/1a011000293a34db15939
+Please Me-Cardi B, Bruno Mars-http://p3-dy.bytecdn.cn/obj/1a0290001101afcc77334
+Swan Song-Dua Lipa-http://p3-dy.bytecdn.cn/obj/1a0000000dcbb83fc0dc1
+Normal Life-抖音小助手-http://p3-dy.bytecdn.cn/obj/1a02700046d271ea51b97
+River-Josh Groban-http://p3-dy.bytecdn.cn/obj/1a058000324f81dc28790
+18 Months feat. Ty Dolla $ign-THEY-http://p9-dy.bytecdn.cn/obj/1a04a0003276fedbb0cf1
+Worth It-Roy Woods-http://p9-dy.bytecdn.cn/obj/1a0020004a76a98d2ad9d
+Roadrunner-Leandro Da Silva, Divolly & Markward-http://p9-dy.bytecdn.cn/obj/19ff70002068f0bcaacdc
+City Lights (LVNDSCAPE Remix)-HAEVN-http://p9-dy.bytecdn.cn/obj/1a088000321f9a926fc42
+Gaia-Vini Vici, Blastoyz, Jean Marie-http://p3-dy.bytecdn.cn/obj/1a02100033c90806d9ad7
+Anyway (feat. XERXESBAKKER) [Hard Mix]-LNY TNZ-http://p3-dy.bytecdn.cn/obj/1a008000172eca527e772
+Like You-Asiahn-http://p3-dy.bytecdn.cn/obj/1a0730002fac97c3ae814
+Right Now-MALACHI-http://p3-dy.bytecdn.cn/obj/1a06a0002fa7d6c246b1c
+Roadrunner-Leandro Da Silva, Divolly & Markward-http://p1-dy.bytecdn.cn/obj/1a034000283deac67236c
+Hard-Jewelz & Sparks-http://p3-dy.bytecdn.cn/obj/1a06a000281d832d45eca
+Fuqboi-Hey Violet-http://p3-dy.bytecdn.cn/obj/29c8000023a15b975d10
+溯 (Reverse) feat. 马吟吟-CORSAK-http://p9-dy.bytecdn.cn/obj/1a01900020167d8cdd758
+Burnin' Up (Aero Chord Remix) -Jessie J,2 Chainz,Aero Chord-http://p9-dy.bytecdn.cn/obj/29ca00009a502b975f35
+break up with your girlfriend, i'm bored-Ariana Grande-http://p16.muscdn.com/obj/musically-maliva-obj/1625259116309510
+bury a friend-Billie Eilish-http://p9-dy.bytecdn.cn/obj/1a0020001ecad03b0564b
+Hard White-Nicki Minaj-http://p9-dy.bytecdn.cn/obj/1a01900011d085a18a5e4
+Youth ft. Khalid-Shawn Mendes-http://p3-dy.bytecdn.cn/obj/155950001d53fa2df33f1
+The Descent ft. Lily Moore, Moss Kena, Jacob Banks-Other People's Heartache, Bastille-http://p3-dy.bytecdn.cn/obj/13fd800067fd39ce1f9da
+Bad Liar-Imagine Dragons-http://p3-dy.bytecdn.cn/obj/173a5000551711be6edc3
+Without Me-Halsey-http://p1-dy.bytecdn.cn/obj/13fcc0006b2fbd8e0081f
+Dancing With A Stranger-Sam Smith, Normani-http://p3-dy.bytecdn.cn/obj/14053000663f595802270
+Gold-Sam Feldt x Kate Ryan-http://p9-dy.bytecdn.cn/obj/1405a0006986d5913051c
+Kinder Eyes (feat. Ryann)-Ryan Riback-http://p3-dy.bytecdn.cn/obj/173b000053f6ed43f9143
+Turn Up-抖音小助手Cg-http://p3-dy.bytecdn.cn/obj/ies-music/1623603218856967.mp3
+不会再哭泣-原子邦妮-http://p3-dy.bytecdn.cn/obj/17389000525b417100e4a
+比巴卜-Mr.OMG-http://p3-dy.bytecdn.cn/obj/155f40005d34266b55d18
+Wait Another Day-Mike Williams & MESTO-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/0f/ad/5e/0fad5ebe-450c-be9d-caf1-e43b57e26599/mzaf_2935072195001320598.plus.aac.p.m4a
+Swan Song (From Alita Battle Angel)-Dua Lipa-http://p16.muscdn.com/obj/musically-maliva-obj/1624163879055365
+宇宙的边缘-原子邦妮-http://p22-dy.bytecdn.cn/obj/1737700052764ab965b73
+请开始你的表演（段落）-龍井說唱孙骁-http://p3-dy.bytecdn.cn/obj/1555e0006f7433e2feb74
+Who Cares-EDX-http://p9-dy.bytecdn.cn/obj/155db0005d4c1bea6a1c3
+刷我滴卡(抢先剪辑版)-金泽男-http://p3-dy.bytecdn.cn/obj/173aa0003ce5b647f7d1d
+Heaven (feat. Veronica)-Dzeko vs. Riggi & Piros-http://p3-dy.bytecdn.cn/obj/155cb0005dc37256f82fc
+Faking-Carta & Ares Carter-http://p22-dy.bytecdn.cn/obj/155b50005da33f3b40a2b
+My Love (Raven & Kreyn Remix)-Breathe Carolina & Robert Falcon-http://p3-dy.bytecdn.cn/obj/173ad000409b701c8f041
+Lie To Me-5 Seconds Of Summer-http://p3-dy.bytecdn.cn/obj/155c40004545f09b22617
+Secreto-Anuel AA, Karol G-http://p1-dy.bytecdn.cn/obj/1739800044bc32c7f2d17
+7 rings-Ariana Grande-http://p22-dy.bytecdn.cn/obj/155af0005f6ea3c839ece
+Shot Clock-Ella Mai-http://p3-dy.bytecdn.cn/obj/1738d00044b568e77cc1f
+Lucky Strike-Troye Sivan-http://p3-dy.bytecdn.cn/obj/173a600044b5dea9fc0bf
+Hybrid-抖音小助手-http://p3-dy.bytecdn.cn/obj/173a000044aa6aa9f6e4c
+caaing-Ll（抖音小助手）-http://p9-dy.bytecdn.cn/obj/ies-music/1623151266416654.mp3
+Lost In-抖音小助手-http://p9-dy.bytecdn.cn/obj/ies-music/1622975022915591.mp3
+竹 Bamboo（剪辑版）— Far East Movement / 张杰 -网易音乐人-http://p9-dy.bytecdn.cn/obj/13fde00005f9f17868ba0
+Tonight To Fly-丁于-http://p22-dy.bytecdn.cn/obj/ies-music/1622989175387143.mp3
+Oxygen-Rompasso-http://p9-dy.bytecdn.cn/obj/155ca00024bbc0220c528
+We Can Change-Trobi-http://p3-dy.bytecdn.cn/obj/1404800035dd82037c860
+Time Flies-Padé & Murat Salman-http://p1-dy.bytecdn.cn/obj/155ea00040618af738d13
+Spendin ft. Gucci Mane-ILoveMakonnen-http://p22-dy.bytecdn.cn/obj/173a400034bd75fbbfb32
+Love Someone-Lukas Graham-http://p9-dy.bytecdn.cn/obj/1738700034a47fc37f79a
+This Land-Gary Clark Jr-http://p3-dy.bytecdn.cn/obj/155e500040741d8d40055
+哪吒闹-大张伟-http://p22-dy.bytecdn.cn/obj/155f4000522c3370f7366
+Mia-Bad Bunny feat. Drake-http://p9-dy.bytecdn.cn/obj/155e8000409da1071e3be
+pala-Ll（抖音小助手）-http://p1-dy.bytecdn.cn/obj/155d90003a99f453ffd52
+Psyhaus-Juicy M vs. Subshock & Evangelos-http://p9-dy.bytecdn.cn/obj/155f8000307112ee66df7
+High Hopes (Don Diablo Remix)-Panic! At The Disco-http://p22-dy.bytecdn.cn/obj/155b40003733305a60ab0
+Chu Desu!-Chunnyt-http://p9-dy.bytecdn.cn/obj/173830000c66ec0022734
+Chu Desu! (Part 2)-Chunnyt,Dodogo-http://p3-dy.bytecdn.cn/obj/173970000c55c4b3393c6
+Just To Feel Alive (feat. JRM) [Breathe Carolina Remix]-Sam Feldt-http://p3-dy.bytecdn.cn/obj/1737a000115f94edf01a8
+Weekend Love-Sophie Francis-http://p22-dy.bytecdn.cn/obj/155d30001f27fa7f298cb
+Oxygen-Rompasso-http://p3-dy.bytecdn.cn/obj/1553400045f96a426ccb9
+si.li.-Ll（抖音小助手）-http://p3-dy.bytecdn.cn/obj/155bb0001652fb0eaa84c
+Unstoppable-The Him-http://p3-dy.bytecdn.cn/obj/155d4000101302523f672
+Like This-Throttle-http://p9-dy.bytecdn.cn/obj/155cc00005e73255b9a3f
+Can't Save Me (feat. Kazi)-Sagan-http://p9-dy.bytecdn.cn/obj/1556200046aa00e883228
+Freak (Joe Stone 2K18 Edit)-R3hab & Quintino-http://p22-dy.bytecdn.cn/obj/14042000373b00a63f162
+Cycles-Tove Lo-http://p3-dy.bytecdn.cn/obj/155cc000023859c591e44
+Honey-Robyn-http://p3-dy.bytecdn.cn/obj/1557a0004109b70dd2d14
+Slay ft. Quavo-YG-http://p9-dy.bytecdn.cn/obj/155e20000204e026d9dfa
+GWSC ft. Neno Calvin-Birdman, Jacquees-http://p3-dy.bytecdn.cn/obj/155bf000023dcb2bf57ab
+Tōkyō-抖音小助手Cg-http://p9-dy.bytecdn.cn/obj/1554f0003403df1e8a16b
+Freak (Joe Stone 2K18 Edit)-R3hab & Quintino-http://p3-dy.bytecdn.cn/obj/155c600000a1fe1a4a9ec
+I Got You (BKAYE Remix)- BKAYE / Bebe Rexha-http://p3-dy.bytecdn.cn/obj/3c83000178b5a2053074
+I don't wanna see u anymore-NINEONE-http://p3-dy.bytecdn.cn/obj/155a70001821bb737254f
+Frequency-Matt Nash-http://p1-dy.bytecdn.cn/obj/155ce0000090975234885
+mix&sky-Ll（抖音小助手）-http://p3-dy.bytecdn.cn/obj/1554c0003ae53b4fdcda7
+Inflection-抖音小助手 程昭瑜-http://p22-dy.bytecdn.cn/obj/1558600021d8d68018a97
+小女儿-Lamp Ho-http://p9-dy.bytecdn.cn/obj/1553b0006bb19bb7b10c5
+Playinwitme (feat. Kehlani)-Kyle, Kehlani-http://p3-dy.bytecdn.cn/obj/98d50001bd0b82a6f976
+130-抖音小助手Cg-http://p1-dy.bytecdn.cn/obj/15554000233576dd7f693
+失控（剪辑版）-牙牙乐-http://p9-dy.bytecdn.cn/obj/13ff7000295998f889cb6
+Way Back Home (feat. Conor Maynard)-SHAUN x Sam Feldt-http://p9-dy.bytecdn.cn/obj/13fee00039309823ac7d3
+Spring festival-抖音小助手 程昭瑜-http://p3-dy.bytecdn.cn/obj/1402e000437a30d73bdd3
+Starchild-Ummet Ozcan x PollyAnna-http://p3-dy.bytecdn.cn/obj/1406c00069737b75be87b
+1999 (Carta Remix)-Charli XCX & Troye Sivan-http://p9-dy.bytecdn.cn/obj/1a04d0004ba2eecec3f72
+Tokyo (feat Vertue)-Faul & Wad-http://p3-dy.bytecdn.cn/obj/13fdb0006ba7b9185ab51
+Sunday-Curtis Alto-http://p3-dy.bytecdn.cn/obj/13fb900064ebff7d0c92f
+跳！-抖音小助手-http://p3-dy.bytecdn.cn/obj/140650004404d16d8d4da
+Bla Bla Bla-于佐依ZOE/痞子福克斯-http://p9-dy.bytecdn.cn/obj/1404400038666c60d3564
+How You Love Me (feat. Conor Maynard & Snoop Dogg)-Hardwell-http://p9-dy.bytecdn.cn/obj/140190001c448aa551924
+Sounds Good To Me (SHAUN Remix)-Hanne Mjøen-http://p9-dy.bytecdn.cn/obj/1402e0000831662de3c44
+Belong-LiCong-http://p1-dy.bytecdn.cn/obj/14002000172a4477bec20
+Strangers Do-Jonas Aden-http://p3-dy.bytecdn.cn/obj/1414800062507d09b08d8
+19-Veegee-http://p3-dy.bytecdn.cn/obj/1405000037ab4033f8388
+Shahar-FTampa & 22Bullets-http://p1-dy.bytecdn.cn/obj/141920005ae1e83ee2087
+Delicious-Daniel Powter-http://p9-dy.bytecdn.cn/obj/29c8000023f4072f39a5
+Running From My Shadow (feat. grandson)-Mike Shinoda-http://p3-dy.bytecdn.cn/obj/98d200004d71af253b8a
+Nada-刘柏辛Lexie-http://p1-dy.bytecdn.cn/obj/13fd30004d8ad1e0b54cd
+Quit You (Party Pupils Remix)-Lost Kings / Tinashé / Party Pupils-http://p9-dy.bytecdn.cn/obj/43990003c7486c300464
+How You Love Me (feat. Conor Maynard & Snoop Dogg)-Hardwell-http://p3-dy.bytecdn.cn/obj/1412e00020d5f8d7b29c5
+thank u, next-Ariana Grande-http://p22-dy.bytecdn.cn/obj/1406900021bc96f75717f
+Just My Type-Sihan Ft. Celine Wanyi-http://p3-dy.bytecdn.cn/obj/1415700050c316672a0aa
+UP-LiCong-http://p1-dy.bytecdn.cn/obj/14186000364292a4c4060
+Can't Help Myself (feat. Deb's Daughter)-We Are Loud-http://p9-dy.bytecdn.cn/obj/1415700001c291777eefe
+imma fool-Veegee-http://p1-dy.bytecdn.cn/obj/13ff700011c6992f7ef25
+London Girl (feat. Baby Sol)-Sander Kleinenberg-http://p1-dy.bytecdn.cn/obj/14031000182f5f16b5d9e
+Kick You Out-Loren Gray-http://p9-dy.bytecdn.cn/obj/14101000681308b8bf939
+Fadeaway-抖音小助手 程昭瑜-http://p9-dy.bytecdn.cn/obj/140df000405a0bcbb6308
+Far-抖音小助手-http://p9-dy.bytecdn.cn/obj/14118000566518f5c85ea
+On N On (feat. Iceman)-Zookëper-http://p9-dy.bytecdn.cn/obj/140bb00038118c9ae062a
+Lights On-GOLDEN AGE-http://p9-dy.bytecdn.cn/obj/141180001053d12f9afcc
+live2-抖音小助手-http://p9-dy.bytecdn.cn/obj/140b600060204ba8dc046
+黑洞之光 - 柳维尼-造梦嘉音乐-http://p1-dy.bytecdn.cn/obj/13f9600003075ad7a8888
+Down in the DM-DJ Flex/Yo Gotti-http://p3-dy.bytecdn.cn/obj/29c300004024a65ccf3f
+live-抖音小助手-http://p3-dy.bytecdn.cn/obj/1408d0000cee4d177255d
+Barbies know know-李斯丹妮 feat. 艾菲-http://p3-dy.bytecdn.cn/obj/f30a0006816c56390748
+Rain (Acoustic Version)-The Script-http://p3-dy.bytecdn.cn/obj/29c900003ab53db01f54
+这样我就忘记你了-原子邦妮-http://p3.pstatp.com/obj/f02c0003158042f3a27f
+Wait-Maroon 5-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/8a/c8/6d/8ac86d86-db7c-cdc5-a644-d0c742d8dd2f/mzaf_7304871852590178501.plus.aac.p.m4a
+鸭sei鸭雷？-LI（抖音小助手）-http://p3-dy.bytecdn.cn/obj/13f8c0006c118e449e5a8
+Bosque-抖音小助手-http://p1-dy.bytecdn.cn/obj/13f770005ac428f9021d1
+Super-抖音小助手-http://p9-dy.bytecdn.cn/obj/13f980005c71fe76e19b2
+Chapstick-Jacob Sartorius-http://p9-dy.bytecdn.cn/obj/47c600061e2e3d0e8ef5
+Taki Taki-DJ Snake/Selena Gomez/Ozuna/Cardi B-http://p3.pstatp.com/obj/f3630006fd8a62b29276
+Hang It Up-The Ting Tings-http://p3-dy.bytecdn.cn/obj/29c9000262faae94c4ef
+Hang Up Your Hang Ups (CamelPhat Remix)-Paul Woolford-http://p1-dy.bytecdn.cn/obj/13f780006085664654f99
+Sober-G-Eazy,Charlie Puth-http://p3-dy.bytecdn.cn/obj/4d1e00034b836c7f2ec8
+Are You Waiting-Cr3on x Lost Capital-http://p22-dy.bytecdn.cn/obj/13f7d000605a759353c73
+Echo (Filatov & Karas VIP Mix)-Burak Yeter-http://p9-dy.bytecdn.cn/obj/13fa70004b692ceb551cb
+LOVE-Alpharock & NDR8-http://p1-dy.bytecdn.cn/obj/13f970005d1e91c12844a
+Run Town-Brooklyn-http://p3-dy.bytecdn.cn/obj/13f4f00057b2ba47cc73d
+Vámonos-Kris Kross Amsterdam x Ally Brooke x Messiah-http://p22-dy.bytecdn.cn/obj/13f89000604dcbc11039e
+Lock Me Down (feat. Mike Taylor)-Tony Romera-http://p22-dy.bytecdn.cn/obj/13f990005b08fc79b4de5
+Sounds Good To Me (Gerd Janson Remix)-Hanne Mjøen-http://p3-dy.bytecdn.cn/obj/13f7800060727c2b74f21
+Eastside-benny blanco Halsey & Khalid-http://p3-dy.bytecdn.cn/obj/13fb10003ad716b78f98f
+Work for me-王菊-http://p3-dy.bytecdn.cn/obj/13f4c000426093d562aed
+yao鸭-LI（抖音小助手）-http://p9-dy.bytecdn.cn/obj/13f2e0006e78a24581de2
+Never Again 你會發覺-呂孝廷 Lu Hsiao Ting-http://sf-tk-sg.ibytedtos.com/obj/tiktok-obj/1618181694390274
+Love Me Down Easy-Oriana-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/10/e4/24/10e424d0-b6fc-e1e1-d93b-2842c94958dd/mzaf_4750552765143831201.plus.aac.p.m4a
+Bomb-PuFFcorn;Horzeman-看见音乐-http://p22-dy.bytecdn.cn/obj/f11f0005cd2ed6e7b7bd
+Soap-Melanie_Martinez-http://p9-dy.bytecdn.cn/obj/13f3400071a6380cc9d07
+Vec3-抖音小助手-http://p3-dy.bytecdn.cn/obj/f19400044026e370ebfc
+====================================原创音乐====================================
+我不是柳下惠-韦琪-http://p9-dy.bytecdn.cn/obj/1cbdc000235460383ed21
+此生是我吗-李奕遐-http://p3-dy.bytecdn.cn/obj/1cbc80000b6cf869ae23d
+左先生右先生-蔡宗强-http://p3-dy.bytecdn.cn/obj/1cc0a0001dbd7abe66179
+心声-林东-http://p3-dy.bytecdn.cn/obj/1cbcd00014a63e55ef0cf
+Fancy（剪辑版）-声音丛林-http://p3-dy.bytecdn.cn/obj/1cbf2000203cec4b44424
+《翅膀》剪辑版-梁雨-http://p9-dy.bytecdn.cn/obj/15584000614b123f5d988
+海市蜃楼（剪辑版）-李瑨瑶-http://p9-dy.bytecdn.cn/obj/173a00004e2de8c6f8b2c
+一首可爱的歌剪辑-vannko-http://p3-dy.bytecdn.cn/obj/a0110006eb56eab66647
+粘人精-剪辑版-圈9-http://p3-dy.bytecdn.cn/obj/1cbb3000051d2b121013d
+最美的年华-樊桐舟-http://p3-dy.bytecdn.cn/obj/ies-music/1628254152867852.mp3
+夏焰-宋尚聪-http://p9-dy.bytecdn.cn/obj/ies-music/1628331395854344.mp3
+错误直觉-刘贞岑-http://p3-dy.bytecdn.cn/obj/1cba30003b0465b9156aa
+雨巷-刘明辉-http://p9-dy.bytecdn.cn/obj/1cbf5000223057ff9867e
+没有尽头的瞬间-中央车站（剪辑版）-声音丛林-http://p3-dy.bytecdn.cn/obj/1cbdb00020056bd8b5c2a
+你的城市-李树-http://p3-dy.bytecdn.cn/obj/8b300005e5b732c05a6e
+她的叮嘱-JOVE-http://p3-dy.bytecdn.cn/obj/1cc8e00008700efbaf8fe
+确认过眼神（撩妹撩汉版）-孙羽幽-http://p3-dy.bytecdn.cn/obj/1cbd90001a600893af2f4
+有你就好（剪辑版）-邱琢然-博轩音乐-http://p9-dy.bytecdn.cn/obj/1cbe9000091107d79dad6
+风波（剪辑版）-声音丛林-http://p22-dy.bytecdn.cn/obj/1ccad00017016d163eeb3
+理想国-剪辑版-李粟-http://p9-dy.bytecdn.cn/obj/1a05000048a8cd2aa7fde
+我愿意平凡的陪在你身边-王七七-http://p22-dy.bytecdn.cn/obj/1cb9e000487fe820d7467
+心跳-李予诺-耳遇音乐-http://p3-dy.bytecdn.cn/obj/1cbf700006df11dda0147
+南郭先生-小凌-http://p3-dy.bytecdn.cn/obj/1cbdc0001e0f8e31f5a3e
+C.尔尼 - 对方正在输入... （剪辑版）-恬音唱片-http://p9-dy.bytecdn.cn/obj/1cbac00020717c967b488
+简简单单-丘沛宸（女神节剪辑版）-丘沛宸-http://p3-dy.bytecdn.cn/obj/1cc9a000003efb8ba1388
+街灯下的雪夜（剪辑版）-刘益申-http://p3-dy.bytecdn.cn/obj/1cc0700008929bee2c376
+野格-无限火力-http://p3-dy.bytecdn.cn/obj/1a0620003d83a0050522d
+关于分手-巨力猫音乐-http://p3-dy.bytecdn.cn/obj/1a00d00042931cfd2858f
+独特-过又嘉-http://p3-dy.bytecdn.cn/obj/7e7c000181b26d78af88
+一声兄弟（副歌剪辑）小雷哥-匠心音乐-http://p1-dy.bytecdn.cn/obj/140540004c2ea1a834abb
+红叶寺（副歌）-小残-http://p3-dy.bytecdn.cn/obj/1a0140001f8e659906b26
+盘（剪辑版）-康梓峰-通力时代-http://p3-dy.bytecdn.cn/obj/1a02b000213f6391bf21b
+星空-纳豆nado-http://p9-dy.bytecdn.cn/obj/1cbdc000002954b3226c5
+《褪色》孙语赛-孙语赛-http://p1-dy.bytecdn.cn/obj/1cbd3000197292a291c7c
+Let Go-严少辰-http://p3-dy.bytecdn.cn/obj/7238000687dcb8301766
+白色情人节-Odyssey组合-http://p9-dy.bytecdn.cn/obj/1cbf80000e47f92aa3700
+孤独症-伍德华-http://p3-dy.bytecdn.cn/obj/1557c0006e83193150683
+那年我们还年少-孔雀哥哥-http://p9-dy.bytecdn.cn/obj/1cbc7000243903a596120
+好想要牵你的手-一口甜-盒声智能音乐-http://p9-dy.bytecdn.cn/obj/1a00a00036222022bba65
+原谅我没有勇气（剪辑版）-柒音盒-http://p3-dy.bytecdn.cn/obj/1cbeb0000ebd79141e860
+林荫街-李洪川-http://p9-dy.bytecdn.cn/obj/1cc820000864c9ccb06e6
+灰色降落伞-聂禹-http://p3-dy.bytecdn.cn/obj/1cca700013cd0eaaba6e3
+围城（剪辑版）-程响-http://p3-dy.bytecdn.cn/obj/1cba9000279669d1c193d
+娇耳谣（剪辑版）-云硕-http://p9-dy.bytecdn.cn/obj/1cbd70000e98aa3a2e5c1
+两面人（剪辑版）-李飞-http://p9-dy.bytecdn.cn/obj/1cbb70001a34489672296
+我想知道牵手的感觉(剪辑版）-PEACE靖-索氧music-http://p3-dy.bytecdn.cn/obj/1a018000086be57a73447
+双城记-妖蝠-http://p3-dy.bytecdn.cn/obj/140d80000a778cb10a1d8
+爱上你的颓废-黄晨晨-http://p1-dy.bytecdn.cn/obj/1cbfc000248ba35a47192
+Like（剪辑版）-周天/绵羊/红叶-动听音乐-http://p3-dy.bytecdn.cn/obj/1a03700027830114f7d32
+盲人游戏（剪辑版）-周理&Jugg$hots-周理&Jugg$hots-http://p22-dy.bytecdn.cn/obj/1a0690005326f804c7f3e
+好聚好散-杨天航-http://p3-dy.bytecdn.cn/obj/1cc100000121eb7125d9a
+轻描淡写 （剪辑版）-赵方婧-独立乐-http://p3-dy.bytecdn.cn/obj/155ce0001f386e5dc6bdb
+别伤害了别人，贬低了自己-咖喱3000-http://p3-dy.bytecdn.cn/obj/1cbe20001c65d5a8de3cd
+未来的你-RYANSCOOTER-索氧music-http://p9-dy.bytecdn.cn/obj/1a0860003be4aaffdaf68
+在烟里-剪辑版-董嘉鸿-http://p3-dy.bytecdn.cn/obj/140e7000205050b8a07dc
+唱首对不起的情歌-萧忆情Alex-http://p3-dy.bytecdn.cn/obj/1ccae0000f507f9bb2b34
+今天也要加油鸭-弦外之音-http://p3-dy.bytecdn.cn/obj/1a0500004b6fae0ef1baa
+西安（剪辑版）-玩具兵团乐队-http://p9-dy.bytecdn.cn/obj/1cba6000056c5dcab6314
+小唯一大甜蜜（剪辑版）-汤雨衡-http://p9-dy.bytecdn.cn/obj/1a02d0001b3524074e642
+Run To You-副歌版-阿古力-权倾唱片-http://p3-dy.bytecdn.cn/obj/1cc020000a92979206ee0
+全民DISCO-张北北-http://p22-dy.bytecdn.cn/obj/1cbc00000b4ea7c4555bc
+盼北－曹宇/阿山-藥音乐-http://p3-dy.bytecdn.cn/obj/61a700070959eed21a31
+腻爱-RYANSCOOTER/YOUNGKUKU-索氧music-http://p9-dy.bytecdn.cn/obj/1a0480003bfe6cdd2871c
+淮河之南·白石道人 - 御鹿神谷-娱陆文化-http://p3-dy.bytecdn.cn/obj/1a02800012f0f7b8f17ae
+海鸥（日常丧版本）-程安-http://p9-dy.bytecdn.cn/obj/1a02a000511334f99ce62
+拥你入眠（副歌版）-张泽一-鲸鱼之梦-http://p9-dy.bytecdn.cn/obj/173a300052f887e67c150
+IMAGINATION-NARON-http://p22-dy.bytecdn.cn/obj/1cc8e00002f1d7adcc16d
+往西-宋黛霆-http://p1-dy.bytecdn.cn/obj/1cc000000cf14cc2f3122
+丧心曲-大熊YOUNG-Z-http://p3-dy.bytecdn.cn/obj/1cc020000cdf01433e5f9
+木兰辞-聂诗齐浚羽-剪辑版3-大师兄-http://p9-dy.bytecdn.cn/obj/1a0560005d3ab518cfff6
+每天天气晴(剪辑版)- 宸辰Alkaid-稻香音乐-http://p1-dy.bytecdn.cn/obj/1a0150000e5f264fa5515
+无法入眠-Fi9江澈-索氧music-http://p3-dy.bytecdn.cn/obj/15585000413fb1c42fe58
+赵某某（副歌版）-赵小宇-赵小宇-http://p3-dy.bytecdn.cn/obj/1406b00067085d58f167c
+Meet Me-艾德沃尔-http://p9-dy.bytecdn.cn/obj/1556c00032e445416ccff
+被伪造的偶像（pt.2）-联合音乐-三无-http://p1-dy.bytecdn.cn/obj/1cbc00000bfa9421f2e57
+王天戈-因为我爱你-咔维星-http://p9-dy.bytecdn.cn/obj/173830004b8f8a71583af
+朋友剪辑版-大师兄-大师兄-http://p9-dy.bytecdn.cn/obj/1a02900037c359ecdcd10
+戒酒-鸾音社-http://p3-dy.bytecdn.cn/obj/1cba000001a6536ead40a
+浪漫画面-冉小冉-娱陆文化-http://p3-dy.bytecdn.cn/obj/1a0320003f1f410ddbfd5
+浪漫剧情（剪辑版）-左子昊、王九媚-娱陆文化-http://p3-dy.bytecdn.cn/obj/1a054000504835783d588
+遇-剪辑版-大牛-http://p3-dy.bytecdn.cn/obj/155b700059507ee5f5845
+你说-杜婧荧-http://p1-dy.bytecdn.cn/obj/173890005096c8610549d
+如果喜欢-陈宸/龙玢如-乐动新生-http://p3-dy.bytecdn.cn/obj/1a03000042b411280181e
+就不告诉你（S）-葛东琪-http://p9-dy.bytecdn.cn/obj/155c10002ddfc21a59544
+无主的思念-刘明(Hook剪辑)-北京乐享天承文化传媒有限公司-http://p9-dy.bytecdn.cn/obj/13fec0004fbb62d711e59
+小情书-刘伟锋-http://p9-dy.bytecdn.cn/obj/1559d0005a56c3618372a
+失格60秒剪辑-张春姣-http://p3-dy.bytecdn.cn/obj/d1bd00031e08ff757c45
+Alright-剪辑版-周鹏霄-http://p3-dy.bytecdn.cn/obj/1cb9d000202e7b026bfa6
+张小九 - 余香-寿光坚诚文化传播有限公司-http://p22-dy.bytecdn.cn/obj/1a0380001386b3739aa7e
+心星-嗨战队-http://p9-dy.bytecdn.cn/obj/1cbd0000070d6f7e060c9
+====================================国风====================================
+古城一侧-毛儿+纸无笔砚（剪辑版）-联合音乐-http://p22-dy.bytecdn.cn/obj/173770003e14e3569dfb1
+评弹《天涯歌女》Remix-新乐府⼁feat.高博文&陆锦花-http://p9-dy.bytecdn.cn/obj/1cbff00024012880ddfb3
+何年-伊格赛听-http://p22-dy.bytecdn.cn/obj/ies-music/1628424846130179.mp3
+梨花雨凉-卢焱-http://p9-dy.bytecdn.cn/obj/a6850001e7a8e2c523c1
+新乐府《黄梅戏》-新乐府⼁黄梅戏乐队feat.王莹、张小威、梁维嘉-http://p3-dy.bytecdn.cn/obj/1cbc400023ef188f61407
+入画-排骨教主-http://p9-dy.bytecdn.cn/obj/1cb9c0001ea05f370d6f5
+筝语（part.2）-卓舒晨-http://p3-dy.bytecdn.cn/obj/1558300065c24b2e20eed
+花涧醉-zena真真（发光计划）-索氧music-http://p9-dy.bytecdn.cn/obj/1a0250003d7a320893034
+云归 羌语版-云朵-http://p3-dy.bytecdn.cn/obj/1cbc20001827e5429750d
+华清宫-剪辑版2-袁一-http://p3-dy.bytecdn.cn/obj/155f10004759097b34f78
+走天涯-降央卓玛-http://p9-dy.bytecdn.cn/obj/1cbf40001003d4ab5a19f
+三生三世《十里桃花》电影推广曲-剪辑版-曾雨轩-http://p3-dy.bytecdn.cn/obj/75430006a4032e0c41b3
+中国字-副歌版-丁于-http://p9-dy.bytecdn.cn/obj/1738b0005035b6a96466a
+悬桥（HBC feat. Megaera）(剪辑版）-何柏诚-http://p3-dy.bytecdn.cn/obj/1556d000619b6d610a3ac
+紫竹调-新乐府-http://p3-dy.bytecdn.cn/obj/155ed0005e40d02d46498
+落子无悔-剪辑版2-许八斗-http://p3-dy.bytecdn.cn/obj/155ac00041ca380587428
+《武老生》-天津范姐/王语彤-http://p22-dy.bytecdn.cn/obj/1556c00055aa50a54038e
+叹郁孤-孙霄磊-http://p3-dy.bytecdn.cn/obj/1a0070003967b747bbc26
+煜爚蝶(part2)-梦伶图-http://p9-dy.bytecdn.cn/obj/13fc100051b651ce69711
+喜洋洋-新乐府-http://p9-dy.bytecdn.cn/obj/155e7000269fc25d8b285
+瑞雪见云开 （Part 2）-一棵小葱&李宗南&张晓涵&戚琦-http://p1-dy.bytecdn.cn/obj/155cc0000df5322f3b6c3
+旱天雷-新乐府-http://p3-dy.bytecdn.cn/obj/155f40005af23bd3d44ac
+中华达人-剪辑版-写歌请找郑冰冰-http://p3-dy.bytecdn.cn/obj/7b6c00034200dde8e4d5
+南巢-御鹿神谷/Apple苹果-娱陆文化-http://p3-dy.bytecdn.cn/obj/155b800038995ad69c05e
+步步高-新乐府-http://p9-dy.bytecdn.cn/obj/155c30003621d6caa43a6
+百鸟朝凤-新乐府-http://p9-dy.bytecdn.cn/obj/155ea0005ea6cdf9203c2
+倚风听雨-鸾音社-http://p9-dy.bytecdn.cn/obj/1737b0000ab85f853af6e
+初-卢焱-http://p22-dy.bytecdn.cn/obj/1410c0002d3495f2cde56
+赝品-简弘亦-http://p3-dy.bytecdn.cn/obj/155a40004800c0632ed2a
+时光静默-卢焱-http://p3-dy.bytecdn.cn/obj/173aa0000b2519772b15c
+王青鹏、杨啟 - 古西子-北京昌禾文化-http://p3-dy.bytecdn.cn/obj/1558e0001fb72ecc915b3
+十二风华鉴-汐音社-http://p3-dy.bytecdn.cn/obj/1559c0006a00cc9c95269
+缘为冰-龙梅子-http://p9-dy.bytecdn.cn/obj/155790006e39c30d9b4b8
+花好月圆-新乐府-http://p3-dy.bytecdn.cn/obj/155cf00055d5a7783873a
+如相恋-张旸-剪辑D-张旸-http://p9-dy.bytecdn.cn/obj/13fb90001982f8a8ceabe
+离人盼-郑茜匀-重庆塑星文化传媒有限公司-http://p9-dy.bytecdn.cn/obj/1402e0003010d06200fc3
+谢相逢-剪辑版-执素兮-http://p3-dy.bytecdn.cn/obj/1417a00034805d92eb691
+山河-邓川-http://p9-dy.bytecdn.cn/obj/155830000a3f2278ff252
+小兰舟-龙梅子-http://p3-dy.bytecdn.cn/obj/1402300052fe2d7f1e572
+一粒米-云朵-http://p3-dy.bytecdn.cn/obj/140f30001fddf3b3fc41b
+将·君恋-张旸-剪辑C-张旸-http://p3-dy.bytecdn.cn/obj/aaf20006ab8c3a6b505f
+千秋雪-鸾音社-http://p3-dy.bytecdn.cn/obj/140ed0002125e83dfdffa
+空（pt2）-暗杠-http://p9-dy.bytecdn.cn/obj/f2fd0005cc941e13c30d
+百物语·山怪-御鹿神谷-娱陆文化-http://p3-dy.bytecdn.cn/obj/141070006e5671891d9f1
+绝代风华-许嵩-http://p9-dy.bytecdn.cn/obj/f34a00039bdb2f35a823
+相思心-吴晴（副歌）-天蜂娱乐-http://p3-dy.bytecdn.cn/obj/13f4d0002e4217b640259
+眸光-木及少年-http://p9-dy.bytecdn.cn/obj/140ec0003f46e99624f74
+麟犀咏裳-剪辑版-虚拟偶像麟&犀-http://p9-dy.bytecdn.cn/obj/13f9900020890084323f0
+思夫-王梦婷/抖音小助手-http://p9-dy.bytecdn.cn/obj/f2140000063102afcb92
+洞仙尘烟（剪辑版）-音阙诗听-http://p9-dy.bytecdn.cn/obj/f34e00040ea9c4cad72a
+向往亚丁-索郎达吉-http://p3-dy.bytecdn.cn/obj/8621000344f946c43303
+西施-罗宇-http://p3-dy.bytecdn.cn/obj/f36f00066cbd43d4c177
+香江香在我心上-白雪-http://p3-dy.bytecdn.cn/obj/14125000107e7d177b895
+北风吹—剪辑版-周艳泓-http://p1-dy.bytecdn.cn/obj/c3800002c0f1e5f18df5
+桃花妆-鸾音社-http://p1-dy.bytecdn.cn/obj/13f88000060d0bb11ba57
+红山果-安与骑兵-http://p9-dy.bytecdn.cn/obj/f2c500040ef804c50a76
+江南烟雨剪辑版-阿涵-http://p22-dy.bytecdn.cn/obj/f33900051c397e72cd10
+梨云有信-Remix-副歌版-Braska-http://p3-dy.bytecdn.cn/obj/f34900032d217ba5c3d0
+梦女子-剪辑版-毅卿扎西-http://p3-dy.bytecdn.cn/obj/f1770004c71fd4d492b3
+秦楼月-裂天-http://p3-dy.bytecdn.cn/obj/f23c000715798a8c8497
+半扇-鸾音社-http://p3-dy.bytecdn.cn/obj/f2670003ccccbf8a0bdc
+小城楼外-龙迦娜-http://p9-dy.bytecdn.cn/obj/f0850000d75339e80002
+说书人-暗杠-http://p1-dy.bytecdn.cn/obj/1400e0006c98cbdc03cd3
+谸谸枯-剪辑版（副歌）-梦伶图-http://p3-dy.bytecdn.cn/obj/f17d000473aa0c5e144b
+俊红妆-一棵小葱\ 戚琦\ 张晓涵-http://p3-dy.bytecdn.cn/obj/f0db0000a79d509417eb
+龙飞龙泽-镜花水月（剪辑版）-中乐恒亚-http://p9-dy.bytecdn.cn/obj/f0ad0003cd154b4cbce7
+不染(pt1)-简弘亦-http://p9-dy.bytecdn.cn/obj/c3810001100a41ba3094
+江湖笑忘-剪辑版-齐晨-http://p3-dy.bytecdn.cn/obj/1554b000550b78228eadd
+曼珠沙华-Top-Music-http://p9-dy.bytecdn.cn/obj/1404a00061ad0075fd1d6
+如尘如梦-剪辑版-林啟得-http://p1-dy.bytecdn.cn/obj/1557f0006bac410a8cca6
+ 钗头凤-黄龄-http://p3-dy.bytecdn.cn/obj/f0c40006bfa0d201dea4
+西单女孩&amp;魏然-拾年遗梦-声韵文化-http://p3-dy.bytecdn.cn/obj/f1080004126f50ff0ec7
+风雪寄思-剪辑版-程雨晴-http://p3-dy.bytecdn.cn/obj/f01c00031f36e96664c5
+红绣鞋-张军-http://p9-dy.bytecdn.cn/obj/f1fd00013794422d2292
+故事外的人-黄诗扶HBY-http://p3-dy.bytecdn.cn/obj/f0110006c0c0e823eb94
+梦回乾坤湾-药小云/云飞-http://p22-dy.bytecdn.cn/obj/f1e400053df2ed870a82
+夫君（剪辑版）-花生米音乐-http://p3-dy.bytecdn.cn/obj/b5f30002101cdfb67175
+一万种情缘-云朵-http://p1-dy.bytecdn.cn/obj/f08a0002bcb29a64b362
+春风 剪辑-戴荃-http://p1-dy.bytecdn.cn/obj/efaf00034884ec8bc719
+红颜笑（高潮版）-石头-http://p3-dy.bytecdn.cn/obj/aweme-original-music/1612564225471555.mp3
+雾隐潇湘（剪辑版）-音阙诗听+楚然-http://p3-dy.bytecdn.cn/obj/f00f00059d1baa9fc964
+今夜的风-程响-http://p9-dy.bytecdn.cn/obj/f0970000efeeb957cdfc
+情歌赛过春江水-韩冰，云朵-http://p1-dy.bytecdn.cn/obj/4a12000016f648c8a53a
+半茶-曾一鸣-http://p3-dy.bytecdn.cn/obj/d21b0003e40afa1ae766
+花殇-赵海鹏-http://p1-dy.bytecdn.cn/obj/f05300006846394f6ada
+少年八荒-剪切板-無名音乐团队-http://p3-dy.bytecdn.cn/obj/b61200024197866b34b4
+虞美人（剪切版）-熙宝-http://p3-dy.bytecdn.cn/obj/d1b30004a1f2e601b2b5
+九色鹿-霍尊-http://p22-dy.bytecdn.cn/obj/d099000019273482f94c
+草原情如画剪辑版-易翔-http://p9-dy.bytecdn.cn/obj/d1840000c966faab4390
+长安-郑冰冰-造梦嘉音乐-http://p9-dy.bytecdn.cn/obj/b60e0003aa74e8f670f0
+长城-石头-http://p1-dy.bytecdn.cn/obj/c3800000e5d351b4dffc
+敦煌谣-雷佳-http://p1-dy.bytecdn.cn/obj/c3ad00026abeeb76cf12
+美好的日子-加天山-http://p9-dy.bytecdn.cn/obj/bed2000506dd55486663
+望着月亮想着家-完整版-歌者潘倩倩-http://p22-dy.bytecdn.cn/obj/c2f000009b4bce952f81
+幻觉-高兰萨朵-http://p3-dy.bytecdn.cn/obj/47cc000435d765d56494
+无锡-肖斯塔-http://p22-dy.bytecdn.cn/obj/beb10006e3cff8ab13ad
+天下永和-药小云-http://p3-dy.bytecdn.cn/obj/c2eb0003700de07a8ea9
+月下恋-UN1-SD-http://p3-dy.bytecdn.cn/obj/8dd300007f43a07c996e
+今生今世（高潮版）-熊胡杰-http://p9-dy.bytecdn.cn/obj/be8c00073cb84502652d
+若相惜-马博-http://p3-dy.bytecdn.cn/obj/b65d0000da52e3dceb92
+如懿传-程响-http://p3-dy.bytecdn.cn/obj/b6020004ea2779577485
+梦乡佛境-龙迦娜-http://p3-dy.bytecdn.cn/obj/b6a600024bfcb2808533
+重生-金志文-http://p9-dy.bytecdn.cn/obj/ab3e000451949605d984
+若是情长-剪辑版-六哲-http://p9-dy.bytecdn.cn/obj/b6260006de37bf082b05
+柳岸旁（part 1）-一棵小葱/戚琦-http://p1-dy.bytecdn.cn/obj/ab930003dd7bcf816227
+山茶梦呓-鹿北朵-娱陆文化-http://p3-dy.bytecdn.cn/obj/ab7900041fb640ed78dc
+我家住在桃花山（Part 2）-尤沫Dina-http://p9-dy.bytecdn.cn/obj/ab670001f0ca1390b0d1
+天上月-剪辑版-阮妍霏-http://p9-dy.bytecdn.cn/obj/ab7d0003419f95afe631
+云归-云朵-http://p3-dy.bytecdn.cn/obj/abad00023a4c254e918d
+人生如戏-玄鸟传说-http://p9-dy.bytecdn.cn/obj/a6b40002807575959bf7
+新壶中天-崔子格-http://p3-dy.bytecdn.cn/obj/aac90000669573aaa914
+念—戏曲版-石头-http://p22-dy.bytecdn.cn/obj/ab5700068d87f566a573
+子夜歌-金南玲；李袁杰-http://p9-dy.bytecdn.cn/obj/ab5b00029728575df5be
+风誓-刘珂矣-http://p22-dy.bytecdn.cn/obj/a0e100004daaf7d7c451
+说唱脸谱-谢津-http://p9-dy.bytecdn.cn/obj/9b6a00035487645db760
+柳岸旁（part 2）-一棵小葱/戚琦-http://p9-dy.bytecdn.cn/obj/ab910006fdfce79a3f52
+希格希日-杭盖-http://p3.pstatp.com/obj/9b640004ef340387a5ee
+我家住在桃花山（Part 1）-尤沫Dina-http://p9-dy.bytecdn.cn/obj/ab480003d03cf98389d7
+空城计-王子-http://p3.pstatp.com/obj/8dc50001fed09f508901
+岁方秋（戏腔）剪辑版--甘璐-甘璐-http://p9-dy.bytecdn.cn/obj/a57a0006f7798024c436
+醉千年- 李袁杰&李俊佑-http://p22-dy.bytecdn.cn/obj/95fe00069e094481eb31
+在那遥远的地方-王洛宾-http://p3-dy.bytecdn.cn/obj/98e700053f186e2a3732
+逆春寒（part 1）-一棵小葱/戚琦/李宗南-http://p9.pstatp.com/obj/88c800015ca80ce3c149
+山川客-剪辑版-黄智霖-http://p3.pstatp.com/obj/9b500001f7c2e9dc7734
+嘎达梅林-腾格尔-http://p9-dy.bytecdn.cn/obj/98e70005241d896c40b0
+赛马-周维-http://p3-dy.bytecdn.cn/obj/98f200009f632ac686e0
+弱水三千-石头-http://p1.pstatp.com/obj/9b690005ad9405a4ee36
+残桥-陶心瑶-http://p3.pstatp.com/obj/751d000499d12309af0a
+三生恋-李雨伦/徐迦琪-http://p3.pstatp.com/obj/98be00024198bd826fef
+一生独一-卢焱-http://p3.pstatp.com/obj/8dc60002124ad008d6ca
+对局（Part 2）-陶辰宇-http://p3-dy.bytecdn.cn/obj/7ba1000652a89e94e8cd
+陶昕然：静夜思（剪辑版）-星火映画有限公司-http://p9-dy.bytecdn.cn/obj/8b4400023ff38d4cd472
+逆春寒（part 2）-一棵小葱/戚琦/李宗南-http://p22-dy.bytecdn.cn/obj/88ca00011344f85bfe11
+锈琴-动听音乐-http://p9-dy.bytecdn.cn/obj/7b510002bfcee0e26846
+狂浪生-一棵小葱-http://p3-dy.bytecdn.cn/obj/29ca0000b1e413b75641
+白衣少年-SING女团-http://p22-dy.bytecdn.cn/obj/8dd800026bab179b198f
+剑荡八荒-葛林-天蜂娱乐-http://p1-dy.bytecdn.cn/obj/7b630005ad4863e8d13c
+怀锦书-陶心瑶-http://p3-dy.bytecdn.cn/obj/aweme-original-music/1591651322996760.mp3
+心猿意马-曾婕Joey.Z-http://p9-dy.bytecdn.cn/obj/4d16000466a4669bf218
+独孤天下-李玉刚-http://p3-dy.bytecdn.cn/obj/6bca0004a3a96bb893f2
+====================================激萌====================================
+Animals Live on the Farm-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1a029000359a281bb2675
+作业狂想曲-And2girls安菟-http://p3-dy.bytecdn.cn/obj/1cc960000f2fa88a3d2f6
+天马行空——水瓶座之歌（剪辑版）-李文博/土不叔叔-小河狸贝瓦动画-http://p9-dy.bytecdn.cn/obj/1cb9e00003a7979a4dc91
+Window & Door in the Living Room-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a02a000404057a511067
+Touch Your Toes-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1a02d00025e262dc82cab
+Where Is the Soap-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1a02e00042ead6b71a68f
+Tomato & Potato-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1a0390003da6db4d1ca9e
+Time to Travel!-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1a02c0001137c9fad9a22
+This Is My Head-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a0880005d810c506a3ca
+Things in the Living Room & Kitchen -gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a04e0005de46bd1049a7
+Stand & Sit-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a00600025c79717a5b80
+Stove in Kitchen-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/19fff00038b0e1dd31287
+Ride & Throw-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1a00e0005ba25a1addc71
+Pumpkin & Mushroom-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a01b0000bdfd5cd2b69c
+Pillow & Quilt-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/19ffb000109a26dea4283
+Police Dog & War Elephant-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a01200045c7fa03ad636
+Muck It Up!-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1a0500001ff75fc8788a3
+Oxygen-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/1a0010000ef840f4e2b35
+Let'sHaveFunTogether!-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a04f0003fed5eda7e820
+I Like to Eat Pumpkins-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1a01d0004c1250f76af3b
+Friends of Humans-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a0790003aeeb32ac5fda
+Carrot & Potato-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1a0640003bc11a4c5735a
+乱叫狗-抖音小助手-http://p3-dy.bytecdn.cn/obj/173b10004525a6773b0a1
+Yummy Mealtime-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/ies-music/1622702602387464.mp3
+拉拉手（剪辑版) — 叶子艺-华纳音悦-http://p3-dy.bytecdn.cn/obj/173a20003a1a0b33f88aa
+吉祥娃娃（新春剪辑版）-小河狸贝瓦动画-http://p9-dy.bytecdn.cn/obj/1737a00054615a53ca428
+Wedding Day-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/ies-music/1622702570833927.mp3
+Leaf & Flower-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/15583000455680235bae1
+Wash Your Face-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1738900014a197325af25
+My Mouth-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1737f00014ab5fc58c87f
+Panda’s Band-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1737b0000c750f3342583
+Bling Bling Big Apple-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/173a5000027981e66251c
+A Fashion Show-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1738f000027c0861ff719
+Touch-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/155530006c6c3c8ce58b2
+Fun around the House-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/155cf0000e7e101257123
+Who We Are-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1401a0005c6cb0510c33c
+I m a Little Teapot-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/155780003e75d0270e3a7
+亮晶晶-圈圈宝贝-http://p3-dy.bytecdn.cn/obj/13fc100032db3b079dab2
+新健康歌-叶圣涛，First Girl-http://p22-dy.bytecdn.cn/obj/75190006bd92bbaee3c8
+Let Me Try-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/155e80001729cd85df900
+Days of the Week-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1406b000555d562b46c6a
+Be on Time-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1555a0006e96b900519ae
+Family-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/13fd20004fc17637d3ffa
+A Well-Behaved Me-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13fea00064a0c777fbb25
+The Farmer-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13fca00050031465a3d7a
+Pig-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1406200030eed31b1a3c1
+I Like to Play-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1412a00057cae73f753e2
+I Like Cats-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1419a0006396297d582e4
+Jingle Bells-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/141990003d4e17afbb131
+我好饿-李彩瑞-http://p3-dy.bytecdn.cn/obj/141a40005c0d4d7e30740
+Months of the Year-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/141750006168f36bf66fb
+Milk Tea-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/f0d600058887a3312305
+宝贝宝贝-李昕融/樊桐舟/李凯稠-http://p3-dy.bytecdn.cn/obj/6f810003b13e4692165a
+Best Friends-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/140c70004fc27fa20679a
+離我遠一點 ("愛的3.14159" 插曲)-邵雨薇-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/24/fa/b3/24fab3df-b424-b7a3-e6a8-1bef979fba11/mzaf_7731914743297158502.plus.aac.p.m4a
+Thanksgiving Day-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1401a0000b6407c3e0276
+胖嘟嘟-剪辑版-叉系-禾信-http://p3-dy.bytecdn.cn/obj/13f00000564fa42e363f5
+Chop Veggies-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1408f0005a9bf23be51ef
+New Year Countdown-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13f6a000259179f7e1ad7
+====================================配乐====================================
+Alright-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cc99000147001b402ca6
+秀场QUEEN-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cbf6000131deb7246270
+Trippin-抖音小助手-http://p9-dy.bytecdn.cn/obj/1cc03000075418080fdd8
+ChakYoun9 - Wonderful World-山东万汇文化传媒有限公司-http://p3-dy.bytecdn.cn/obj/1cc070000f9d7d77a195c
+Cruising -抖音小助手-http://p3-dy.bytecdn.cn/obj/1cc08000000b8ef627cb2
+Low D#-抖音小助手-http://p3-dy.bytecdn.cn/obj/1cb9f000068a2d0708e5e
+Heater-抖音小助手-http://p1-dy.bytecdn.cn/obj/1a02d0004929c2e062d8b
+Sunday Afternoon-抖音小助手 张多多-http://p9-dy.bytecdn.cn/obj/19ff30006579a5a0bcd6f
+Ti2-抖音小助手-http://p9-dy.bytecdn.cn/obj/1a08a0003211a176af040
+Awards-抖音小助手-http://p3-dy.bytecdn.cn/obj/155be0000602249979ce6
+once a girl likes u 剪辑版-MT1990-http://p22-dy.bytecdn.cn/obj/13f5a00069157ab127b43
+Mase-抖音小助手-http://p3-dy.bytecdn.cn/obj/98eb0004dd034641012c
+換一個心動 (配樂)-黃偉晉-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/03/a2/45/03a24577-c23d-7bc2-dcc7-44ecfb7c462c/mzaf_6499414392380027168.plus.aac.p.m4a
+Adiemus-Adiemus-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/8c/25/36/8c253613-7adf-c24a-6d00-935ae3132095/mzaf_2582356754869348299.plus.aac.p.m4a
+The Nutcracker and the Four Realms-James Newton Howard-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/59/3a/24/593a2483-f3a0-dcf0-bf8d-29637596d8d1/mzaf_6806395721251133254.plus.aac.p.m4a
+被上帝扔掉的流浪狗-程昭瑜-http://p9-dy.bytecdn.cn/obj/f17f0006e9e688d17c6d
+Sunrise-抖音小助手-http://p9-dy.bytecdn.cn/obj/f1690000b90a20375397
+Yosemite-抖音小助手-http://p9-dy.bytecdn.cn/obj/d08b0000a6fc0372ab34
+I-抖音小助手-http://p3-dy.bytecdn.cn/obj/a02e00053754f0f63a43
+Pose-抖音小助手-http://p3-dy.bytecdn.cn/obj/a01d00015fe1ad9a29cf
+Catwalking-抖音小助手-http://p9-dy.bytecdn.cn/obj/9b450004bf0f8595af7a
+Sunset-抖音小助手-http://p3-dy.bytecdn.cn/obj/8b3500061a561a12447e
+Fashion-抖音小助手-http://p3-dy.bytecdn.cn/obj/95fb0005831952e9e5b1
+Star-抖音小助手-http://p3-dy.bytecdn.cn/obj/937b0000e60929e9880b
+Raindrops-抖音小助手-http://p3-dy.bytecdn.cn/obj/933c0005f274d3eb17ce
+Surf-抖音小助手-http://p3-dy.bytecdn.cn/obj/90bc000404d7332ba26f
+弱水三千-程昭瑜 抖音小助手-http://p3-dy.bytecdn.cn/obj/7e870001ed3bba04628d
+sth wrong-抖音小助手 程昭瑜-http://p3-dy.bytecdn.cn/obj/6f6f000233b499c6498a
+====================================热歌榜====================================
+塑料姐妹-盖巧-http://p3-dy.bytecdn.cn/obj/1402c0005ad917b371286
+前方-60s燃血版-第一乐章-http://p9-dy.bytecdn.cn/obj/1a07f0005ced443e168eb
+不曾相遇-亦勋-http://p3-dy.bytecdn.cn/obj/1a08900052a31b4020265
+告白の夜-剪辑版2-Ayasa绚沙-http://p9-dy.bytecdn.cn/obj/155370006be628d9e31f3
+《屏住呼吸》-N1FT-N1FT超先队-http://p3-dy.bytecdn.cn/obj/155930006efc0a8c8ebec
+《有你就好》-张津涤&amp;倪可-张津涤-http://p3-dy.bytecdn.cn/obj/1a0560004c6688314109d
+不让你孤单part2-卓舒晨-http://p9-dy.bytecdn.cn/obj/1cba20000a757c6d04a2e
+浪漫画面-冉小冉-娱陆文化-http://p22-dy.bytecdn.cn/obj/1a0320003f1f410ddbfd5
+花，我全部都给你-剪辑版-胡芳芳-http://p9-dy.bytecdn.cn/obj/1a06c0002d03592ea4cab
+《只是曾经》52秒-后米音乐-http://p9-dy.bytecdn.cn/obj/1a04a000321caabaf6a83
+《繁花落岸》-赵锴羿-http://p3-dy.bytecdn.cn/obj/173ae00051acd31dbf99b
+倚风听雨-鸾音社-http://p3-dy.bytecdn.cn/obj/1737b0000ab85f853af6e
+====================================飙升榜====================================
+打电话给你-秋秋-http://p3-dy.bytecdn.cn/obj/1cca900002e284d87c094
+照相機-舒涵-http://p3-dy.bytecdn.cn/obj/1a00d0004dc49a777d5d1
+我可不可以-剪辑版-DP龙猪-http://p3-dy.bytecdn.cn/obj/1a0360001df7fda389eb4
+情人节（剪辑版）-Ahu-http://p3-dy.bytecdn.cn/obj/1a04d000165174d3bc4b9
+高速路-杨欧几-http://p3-dy.bytecdn.cn/obj/1cbf400005d27a42f4532
+Mr.16罗隽永 - 草莓奶昔(Ft.Homeboy叶枫华)-Mr.16罗隽永-http://p3-dy.bytecdn.cn/obj/1739d0005bbf30efab038
+合适的-张力超-http://p3-dy.bytecdn.cn/obj/155e300014af3ffca96f4
+细数流年-剪辑版-贺世哲-http://p3-dy.bytecdn.cn/obj/155d900021cce62e425eb
+Him&Her-红双囍-http://p3-dy.bytecdn.cn/obj/19ffc00039cd033e19bbc
+我是你的 你是我的-冯舆轩-冯舆轩-http://p3-dy.bytecdn.cn/obj/1a0110003da65c01b71d1
+怎么就喜欢你（Part.2)-郜白-http://p3-dy.bytecdn.cn/obj/1a0780003c63a97af0e3a
+Trap(prod by robins Lu)-吴壹-http://p22-dy.bytecdn.cn/obj/1a0520004bf7f5fc861a9
+小唯一大甜蜜（剪辑版）-汤雨衡-http://p9-dy.bytecdn.cn/obj/1a02d0001b3524074e642
+有你就好（剪辑版）-邱琢然-博轩音乐-http://p3-dy.bytecdn.cn/obj/1cbe9000091107d79dad6
+乘风破浪 副歌-周典奥-http://p9-dy.bytecdn.cn/obj/1a06900052f775a49e80d
+偷来的想念 ——剪辑版-李承夕-http://p3-dy.bytecdn.cn/obj/1a06b00023ab102550834
+出逃-罗之豪-http://p1-dy.bytecdn.cn/obj/1a06b0003c4fc113f6517
+寂寞了断-剪辑版-口袋宋江乐团-http://p1-dy.bytecdn.cn/obj/1a07d000273b5c934ccff
+====================================翻唱大挑战====================================
+当你走了 - 吾尊 -造梦嘉音乐-http://p9-dy.bytecdn.cn/obj/13fef0001f7e0d2730a66
+咪了个喵-路默依-http://p1.pstatp.com/obj/f2ac0004451dc43f3668
+无骨无花，无我无他 - 尚东峰-尚东峰-http://p3-dy.bytecdn.cn/obj/14140000318940b21025d
+全民DISCO-张北北-http://p1-dy.bytecdn.cn/obj/1cbc00000b4ea7c4555bc
+别知己-海来阿木 阿呷拉古 曲比阿且-索氧music-http://p3-dy.bytecdn.cn/obj/1cc7600013344b4287f25
+小红帽-葡萄不愤怒-http://p3-dy.bytecdn.cn/obj/1cc040001cf774e6c5f9d
+走着走着花就开了-卓舒晨-http://p9-dy.bytecdn.cn/obj/140610004cc99d4dd4434
+MILKETEA-JAEFOREAL,HusH!-http://p9-dy.bytecdn.cn/obj/8de9000063bd3abb02ee
+下坠Falling-Corki-http://p9-dy.bytecdn.cn/obj/1415f00053dfa379e6181
+说书人-暗杠-http://p9-dy.bytecdn.cn/obj/1400e0006c98cbdc03cd3
+东西-林俊呈-http://p1-dy.bytecdn.cn/obj/d1e400058b06f9137a0b
+千秋岁引-剪辑版-無名音乐团队-http://p3-dy.bytecdn.cn/obj/1cbec0001a80cedc5dd11
+《小仙女》剪辑版-萧全/陈诗怡-萧全/陈诗怡-http://p1-dy.bytecdn.cn/obj/13fd000041f4109ac5f18
+溯 (Reverse) feat. 马吟吟-CORSAK-http://p9-dy.bytecdn.cn/obj/1a01900020167d8cdd758
+当我再见到你的时候-白举纲-http://p3-dy.bytecdn.cn/obj/f0c0000392646f25d2d1
+一点点-董唧唧-http://p1-dy.bytecdn.cn/obj/f0bc0002bf791961ff3b
+====================================说唱====================================
+ALS-Yider伊德尔-http://p3-dy.bytecdn.cn/obj/ies-music/1628230541959175.mp3
+高速路-杨欧几-http://p3-dy.bytecdn.cn/obj/1cbf400005d27a42f4532
+Young Toy baby-Toy_wong-http://p3-dy.bytecdn.cn/obj/1a03000015b7813fdf784
+穿过整座城市 剪辑版-Lil Chaos-http://p9-dy.bytecdn.cn/obj/1739d000551527787c497
+彩虹-杨欧几-http://p22-dy.bytecdn.cn/obj/1a08a0004a57eb2617358
+Money Girl-芋头-http://p9-dy.bytecdn.cn/obj/d0fb000301ec68ab83b5
+Playinwitme (Jay Park Remix)-KYLE-http://p3-dy.bytecdn.cn/obj/1739c00029fca81395e7b
+回家-法老-http://p3-dy.bytecdn.cn/obj/1559500021cb943fa8d73
+讨债情歌-玖壹壹-http://p9-dy.bytecdn.cn/obj/13fc300068bf6fecf55c5
+Only U-ICE-http://p3-dy.bytecdn.cn/obj/155dd0000494d38b3b926
+Hey Julie! Feat. Lil Yachty-KYLE-http://p3-dy.bytecdn.cn/obj/14155000037851d3d27f6
+我的女孩-Laoz G-http://p3-dy.bytecdn.cn/obj/13fd500039130e6efbf9d
+ODDope陈思键 - No Choice-WR/OC-http://p9-dy.bytecdn.cn/obj/f2e8000094a62bca9237
+Did It On’em-Nicki Minaj-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/b2/76/a8/b276a8d0-e253-87ca-c9d5-b9969b7ddcde/mzaf_2861843372959122122.plus.aac.p.m4a
+开心快乐歌（剪辑版）-饺子-http://p9-dy.bytecdn.cn/obj/1416f0006a1e4519afde7
+我想part2-法老/杨秋儒-http://p3-dy.bytecdn.cn/obj/1739d00051ae032dcd7fd
+妈妈说 hook-红双囍-http://p1-dy.bytecdn.cn/obj/13f5b0003e017b147c28f
+I Love You Baby-The Name-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/d6/46/39/d64639ab-a8ba-8fab-c9c6-5f8f87b79c19/mzaf_4652787500352717016.plus.aac.p.m4a
+Body Control-王广允-http://p9-dy.bytecdn.cn/obj/f1fc000645d83bfd6123
+你不是我的-芋头-http://p3-dy.bytecdn.cn/obj/f1f40006b11fa552eec2
+Yes Indeed-Lil Baby & Drake-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview125/v4/f5/bc/9e/f5bc9e9c-d62b-332b-04c4-061018d060fc/mzaf_7200764193324270096.plus.aac.p.m4a
+So Easy-芋头-http://p9-dy.bytecdn.cn/obj/f13e00070c4e0c92612d
+GAGA-HMFUNK-http://p9-dy.bytecdn.cn/obj/6f68000088435672b862
+Young13dbaby - Gotta GO-WR/OC-http://p9-dy.bytecdn.cn/obj/f15200063f09455e8e6f
+拿球说话-龙井说唱孙旭-http://p22-dy.bytecdn.cn/obj/f26c0006f3997f40f0f4
+Only (feat. Cratus)-Mina,Mina,Cratus-http://p1-dy.bytecdn.cn/obj/f1f6000279958b1fc61b
+Slow Down-Boyka-http://p9.pstatp.com/obj/c35f0006a1ce2b983408
+====================================爱吃爱旅行====================================
+猛吃猛喝-超暖-http://p3-dy.bytecdn.cn/obj/141270004b5f61b7077c5
+点星剪辑版-MT1990-http://p3-dy.bytecdn.cn/obj/1a0470004fe275ac87017
+绿叶菜里有什么（剪辑版）-上海彩虹室內合唱团-http://p3-dy.bytecdn.cn/obj/14001000526e0146108ee
+就是胖了怎么着-陈柯宇-http://p9-dy.bytecdn.cn/obj/173970005097f35f8fc09
+MyLove一起去旅行-KU古曜威-http://p3-dy.bytecdn.cn/obj/155ef00004da7812904f3
+How To Love (Original Mix)-Cash Cash;Sofia Reyes-http://p9-dy.bytecdn.cn/obj/29c8000024003ca93f92
+面条   黑山大马猴乐队-大牛-http://p3-dy.bytecdn.cn/obj/17394000508763a9dc8c1
+舌尖上的中国-阿鲲-http://p1-dy.bytecdn.cn/obj/29c8000023b5fb1c8b21
+吃货 - 杨吕（上海美食版）-清晨录音棚-http://p3-dy.bytecdn.cn/obj/7b680006b36389a4ab8d
+Wake Up Where You Are-State of Sound-http://p3-dy.bytecdn.cn/obj/3c860002cf3d14126310
+版纳记忆剪辑-美食菜单-爱柚熊-http://p9-dy.bytecdn.cn/obj/80c600050b10dd8a9d41
+重庆的味道-璨乐团-http://p3.pstatp.com/obj/725e00062e99169c26bb
+Run Free-Deep Chills,IVIE-http://p3-dy.bytecdn.cn/obj/4a150004ff762ab1cd8e
+卤煮火烧 30秒版 （副歌+rap）-张伯宏-http://p3-dy.bytecdn.cn/obj/1414d00018d1d2e17d217
+Trip-Axero-看见音乐-http://p99.pstatp.com/obj/f120000664f2e200b986
+走去吃火锅-陈乃甄-http://p9-dy.bytecdn.cn/obj/7b570001af3e9b9a31dd
+Horizon-Janji-看见音乐-http://p22-dy.bytecdn.cn/obj/f1220002c72c90cb9db5
+一家火锅店（《万能图书馆》片尾曲）-上海彩虹室内合唱团-http://p9-dy.bytecdn.cn/obj/6c7200060fafbb3cbe74
+Send It-Austin Mahone-http://p3-dy.bytecdn.cn/obj/29c300003e61ebc7063e
+胖三斤剪辑版-辄仔-http://p22-dy.bytecdn.cn/obj/f28200016e19a63b6da0
+《旅行日记》-单小源-http://p9-dy.bytecdn.cn/obj/c3ae00063c398fd92e9d
+我的肚子好饿-TeddyWei-http://p1.pstatp.com/obj/7b5a0003c089d1ee97a7
+Ferrari (Part 2)-Bebe Rexha-http://p22-dy.bytecdn.cn/obj/7e8700047b58baff50dc
+Good Time-Owl City/Carly Rae Jepsen-http://p3-dy.bytecdn.cn/obj/29c500002594b3d871c7
+====================================影视原声====================================
+崔子格《真心假意》（电视剧《只为遇见你》插曲 特别版）-有沐音乐YumMusic-http://p3-dy.bytecdn.cn/obj/1cc7800012ca04377188e
+来我心里坐一坐-剪辑版-陈子芊-http://p3-dy.bytecdn.cn/obj/1cbcc000144134422ed31
+江湖决-电影七剑下天山只封神骨主题曲（剪辑版）-声音丛林-http://p3-dy.bytecdn.cn/obj/1cbef000240a3b46be41f
+十里相思（《拜见宫主大人2》网络剧插曲剪辑版）-胡66-通力时代-http://p3-dy.bytecdn.cn/obj/1cc8a00016f2d7f72c4c0
+青匆（《大学宿舍生活》电视剧原声带）-王欣宇-http://p9-dy.bytecdn.cn/obj/1cbb0000244485bc1d3cd
+王龙华：好男儿志在四方(电视剧 &lt;重耳传奇&gt;片头曲)（剪辑版）-杰思国际娱乐-http://p3-dy.bytecdn.cn/obj/1cbad0001cbab5c5145b0
+鹿小草《爱爆炸在这个星球》（电视剧《只为遇见你》插曲 特别版）-有沐音乐YumMusic-http://p3-dy.bytecdn.cn/obj/1cc0a00019c296f42242f
+阳台上-郁可唯-http://p9-dy.bytecdn.cn/obj/1cbe2000101f8aba1e6b5
+求全（《大周小冰人》主题曲）（剪辑版）-王金金&李袁杰-王金金&李袁杰-http://p3-dy.bytecdn.cn/obj/1cbb400019b061e166d68
+郭静《只为遇见你》（电视剧《只为遇见你》片头曲 特别版）-有沐音乐YumMusic-http://p9-dy.bytecdn.cn/obj/1cba100038541446ea1f4
+菩提偈-刘惜君-http://p3-dy.bytecdn.cn/obj/1cbc600006561eaf604e2
+蜂鸟-吴青峰-http://p3-dy.bytecdn.cn/obj/1a02f00029f724b775cac
+从前慢-网剧《我的青春也灿烂》插曲-剪辑版-苟瀚中-http://p3-dy.bytecdn.cn/obj/1a02f0003f978c7cf5afd
+情霜-杨紫-http://p3-dy.bytecdn.cn/obj/1cbf2000065c62a8aa365
+去流浪（电影《流浪地球》推广曲）-周笔畅-http://p9-dy.bytecdn.cn/obj/1a06b000296cd89ae876b
+奉献（电影《飞驰人生》片尾曲）-韩寒-http://p1-dy.bytecdn.cn/obj/1a0590002970c80a8665c
+思念(热播剧《天下无诈》片尾曲)-付豪-北京千源影视文化传播有限公司-http://p9-dy.bytecdn.cn/obj/1a0880004377a4d596510
+许之糯：梦旅人（电影《未来的你》推广曲）（剪辑版）-杰思国际娱乐-http://p3-dy.bytecdn.cn/obj/1a0750004f15f5d2f60b0
+平凡之路（电影《飞驰人生》特别版）-沈腾-http://p3-dy.bytecdn.cn/obj/1a08b000297bf6d01b96e
+逆流而上的你（电视剧《逆流而上的你》同名片尾曲）-尹姝贻-http://p3-dy.bytecdn.cn/obj/1a00f0002969f2b74dad8
+不能说（网络剧《彗星来的那一夜》插曲）-符龙飞-http://p22-dy.bytecdn.cn/obj/19ff900059231472d3c85
+ALL IN《英雄上线》-挺齐全战队-http://p22-dy.bytecdn.cn/obj/19fff0001f0e71901bd00
+兰若仙踪（电影《神探蒲松龄》推广曲）-魏允熙-魏允熙-http://p22-dy.bytecdn.cn/obj/1a01200009c7c0ea24b7f
+Candy Girl(电视剧《G小调进行曲》推广曲)剪辑3-侯东/喻大维/刘成瑞/孙一杰/赵一桉/朱涵驿-北京乐享天承文化传媒有限公司-http://p3-dy.bytecdn.cn/obj/1a0770002ace11d5c0211
+昨日的未来-《凹凸世界》第三季ED 30秒 Ver.-秉音创声-http://p22-dy.bytecdn.cn/obj/155df000513ad6ad21b47
+逆流而上的你（电视剧《逆流而上的你》同名推广曲）-潘粤明-http://p22-dy.bytecdn.cn/obj/1a019000295d5fac58ce9
+偏执的梦- 王嘉诚 骁鹏 肖鹤-造梦嘉音乐-http://p1-dy.bytecdn.cn/obj/1a04a00014532fae2bd52
+Do The Fight-《凹凸世界》第三季OP 30秒 Ver.-秉音创声-http://p9-dy.bytecdn.cn/obj/155a900042f31e07b7f27
+知否-搜索音乐-搜索音乐-http://p3-dy.bytecdn.cn/obj/173960005202e157e4ab3
+熊出没原始时代主题音乐-阿鲲-阿鲲-http://p1-dy.bytecdn.cn/obj/173a100052419426d305b
+宁愿(电影《神探蒲松龄》推广曲）-摩登兄弟刘宇宁-http://p3-dy.bytecdn.cn/obj/1a01c00003b6aa80afe30
+大哥你好吗魔性版（电影《飞驰人生》推广曲）-电影飞驰人生-http://p1-dy.bytecdn.cn/obj/155f80004f42b786e4c06
+流浪地球主题音乐-阿鲲-阿鲲-http://p3-dy.bytecdn.cn/obj/173980005269ec84e62ea
+半壶纱（电视剧《小女花不弃》插曲）-刘珂矣-http://p9-dy.bytecdn.cn/obj/155a900031ea6634874d2
+吴青峰 -《起风了》（电视剧《加油你是最棒的》主题曲）-智慧大狗娱乐-http://p9-dy.bytecdn.cn/obj/155bb0002f687d36b14d8
+熊出没原始时代 快乐的生活-阿鲲-阿鲲-http://p3-dy.bytecdn.cn/obj/173ac00052a99293dd8ad
+阿爸（电视剧《阿爸》主题曲）（剪辑版）-罗忆诗-http://p3-dy.bytecdn.cn/obj/1739a00055253e0439529
+怪可爱（电影《神探蒲松龄》插曲）-成龙-成龙-http://p3-dy.bytecdn.cn/obj/155cb000532310a3281dd
+《在下霍元甲》—GAI周延-霍元甲之精武天下-http://p3-dy.bytecdn.cn/obj/155e00002a94561fbae18
+开启新征程(流浪地球片尾)-阿鲲-阿鲲-http://p3-dy.bytecdn.cn/obj/155a80005d070f884a6f0
+一起笑出来（贺岁版）（电影《神探蒲松龄》主题曲）-成龙、蔡徐坤-成龙 蔡徐坤-http://p1-dy.bytecdn.cn/obj/155d20003887aac359f0e
+清欢决（电视剧《艳势番之新青年》清殇主题曲）-张磊-http://p22-dy.bytecdn.cn/obj/155da0003250e8157196b
+一起笑出来（电影《神探蒲松龄）推广曲）-乔杉-乔杉-http://p3-dy.bytecdn.cn/obj/1737f0003918b620cc642
+光的出口 （电视剧《艳势番之新青年》燃梦主题曲）-张玮-http://p9-dy.bytecdn.cn/obj/173a100023371830cc818
+《知否知否应是绿肥红瘦》剧情概念曲金玟岐《换》-金玟岐-http://p9-dy.bytecdn.cn/obj/155cb000306d6403ed089
+《福气拱拱来》（电影《熊出没·原始时代》片尾曲）CUT-孟美岐、吴宣仪、段奥娟、赖美云-http://p22-dy.bytecdn.cn/obj/173b1000284dbc71fb35f
+青苔-莫非定律More Feel-http://p3-dy.bytecdn.cn/obj/155ee000282f5b381ebfe
+另一个世界（电视剧《艳势番之新青年》涅槃主题曲/片头曲）-南征北战NZBZ-http://p3-dy.bytecdn.cn/obj/1554a000472678a5f7ce3
+《知否知否应是绿肥红瘦》剧情概念曲胡夏《只问你肯不肯》-胡夏-http://p9-dy.bytecdn.cn/obj/173a00001a1215d513d69
+双生焰（电影《神探蒲松龄》主题曲）-张靓颖-张靓颖-http://p3-dy.bytecdn.cn/obj/1739400023fada7e841cb
+一半人生（电影《飞驰人生》主题曲）-阿信-http://p3-dy.bytecdn.cn/obj/155340005336be4a6ca82
+三万年之前（电影《熊出没•原始时代》主题曲）-张韶涵-http://p22-dy.bytecdn.cn/obj/173800002a51141369bf1
+代文雯&高泰宇：再靠近一点(网剧《众王驾到》主题曲)（剪辑版）-星火映画有限公司-http://p9-dy.bytecdn.cn/obj/1400f0007096413a41485
+我最爱的人——剪辑版-洪川-http://p3-dy.bytecdn.cn/obj/1556b0005c727357fa9de
+光明大道2019（电影《燃点》主题曲）-张楚-百态文化-http://p3-dy.bytecdn.cn/obj/1556b00051837b19120a3
+来电狂响（《来电狂响》同名主题曲）-袁娅维-http://p9-dy.bytecdn.cn/obj/13fcd00064e3edf3d5d68
+《知否知否应是绿肥红瘦》主题曲《知否知否》剪辑版2-胡夏 郁可唯-http://p3-dy.bytecdn.cn/obj/155d900002904f71b5046
+热血青春（电影《芳菲》主题曲）-修博苧-孔家娱乐传媒-http://p1-dy.bytecdn.cn/obj/1739300012c4267b55dea
+《知否知否应是绿肥红瘦》剧情概念曲叶炫清《当歌》-叶炫清-http://p3-dy.bytecdn.cn/obj/155ba000028dde79343d2
+====================================日韩====================================
+Body-시윤,Tae Wan-http://p9-dy.bytecdn.cn/obj/3c830001478f7ecc122d
+Happy Birthday Waltz (Serenade Ver.)-Sweden Laundry-http://p3-dy.bytecdn.cn/obj/404800029faecf6d3c68
+ハローハロー-H△G-http://p22-dy.bytecdn.cn/obj/504a00023ed5ebbf0f95
+Boys And Girls-Zico&Babylon-http://p1-dy.bytecdn.cn/obj/29c2000040dec9516961
+ONE-Aimer-http://p9-dy.bytecdn.cn/obj/40630000b6d565bfc2c8
+Rainy-Acourve-http://p22-dy.bytecdn.cn/obj/3c8700013fc3bb061ea1
+何もかも有り余っている こんな時代も-Goose house-http://p1-dy.bytecdn.cn/obj/4dfa000683b742da0ade
+ツナゲル-天月-あまつき--http://p22-dy.bytecdn.cn/obj/339200000196cb9e9561
+한 달을 못 가서-Ali,Paul Kim-http://p1-dy.bytecdn.cn/obj/723e00022759515c7a84
+君色-Da-iCE-http://p9-dy.bytecdn.cn/obj/3391000038b50cf2f642
+LATATA-(G)I DLE -http://p3-dy.bytecdn.cn/obj/83250003cf5a37278be2
+쎈언니-Jessi-http://p9-dy.bytecdn.cn/obj/3c8800016a9d8300c34b
+牛奶(우유)-Hani-http://p9-dy.bytecdn.cn/obj/29c50000259d49abd9db
+INSECTICIDE-CRUDE PLAY-http://p3-dy.bytecdn.cn/obj/339500002b52e5ac179e
+カタオモイ-MACO-http://p3-dy.bytecdn.cn/obj/47bb000768c71c25a25f
+神様のテトリス-WHITE JAM-http://p3-dy.bytecdn.cn/obj/4a0f00034eac3c9e9e2a
+春風-ワッチ-http://p3-dy.bytecdn.cn/obj/3a25000459eb7f22a1d5
+무슨 생각해-TERRY,JUNIK,Slow-http://p3-dy.bytecdn.cn/obj/d0b500068440558b12ad
+너와 내 사이-시윤,姜敏熙-http://p22-dy.bytecdn.cn/obj/d0c60005f5bfc8e46a89
+활활 (Prequel Remix)-WannaOne (워너원)-http://p22-dy.bytecdn.cn/obj/46860005c6072b1d98c1
+아야해 (feat. Jeong Bo Young)-Chocolate Note-http://p22-dy.bytecdn.cn/obj/98de000014b1a50069c1
+꿀밤 (Honey Night)-Maktub,Tommy kim,Leeraon-http://p9-dy.bytecdn.cn/obj/a0f4000185dc31b8b496
+잠 못 드는 밤에-Honey Bee-http://p3-dy.bytecdn.cn/obj/83a0000475fda53f48cf
+Alone-시윤-http://p3-dy.bytecdn.cn/obj/d0910006aa57212c4703
+Know Me-DPR LIVE,DEAN-http://p9-dy.bytecdn.cn/obj/339500042a650a437bc5
+CIRCLE-SAAY-http://p9-dy.bytecdn.cn/obj/13fe90003e74361e29671
+SWEATY-SAAY-http://p3-dy.bytecdn.cn/obj/13fbc0004393ea01e6f1b
+I'M OK-iKON-http://p3-dy.bytecdn.cn/obj/173860000450e95d3b943
+Arirang-Shaun-http://p22-dy.bytecdn.cn/obj/a11000064667054bc40c
+====================================ACG====================================
+王元-Ll（抖音小助手）-http://p22-dy.bytecdn.cn/obj/1cbed00013445420e9b8b
+Troubleshooter-Marten Andersson-http://p22-dy.bytecdn.cn/obj/ies-music/1628425062525956.mp3
+月亮（动漫《少年锦衣卫》印象曲）剪辑版-Hickey喜祺-http://p3-dy.bytecdn.cn/obj/155f40003a1b9f3ac06cd
+你怕不怕-跟风超人-http://p3-dy.bytecdn.cn/obj/13fe50005b01db527049e
+闪闪靓-Happy Birdy-http://p1.pstatp.com/obj/751c0000cedefc27d67c
+POP TEAM EPIC(TV动画《pop子和pipi美的日常》片头)-上坂すみれ-http://p3-dy.bytecdn.cn/obj/6661000080f6103c861a
+IG大宝剑-暗箭小老弟-http://p9-dy.bytecdn.cn/obj/f15b0003ed872e0b8e5c
+心动的感觉-醋醋-http://p9-dy.bytecdn.cn/obj/f0e70003a5fb9d4ee0b6
+快给我点个赞-跟风超人-http://p9-dy.bytecdn.cn/obj/ab6b00069bd220c5b3a1
+时光街乐队：Summer Sunshine 精简版-杰思国际娱乐-http://p9-dy.bytecdn.cn/obj/b5ef0000bbef1722c704
+你打不过我吧-跟风超人-http://p1-dy.bytecdn.cn/obj/7bcb000542b256f2ad1f
+Intro 幻启-EC一平-http://p3-dy.bytecdn.cn/obj/f0140004ed236cebb393
+====================================生活====================================
+开学第一天vs开学一周后-抖音小助手-http://p9-dy.bytecdn.cn/obj/b5fc000414942678808d
+我爱死你-王德发-http://p9-dy.bytecdn.cn/obj/1406c0003d8d001b4ae90
+喷嚏打不出来-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c800002636b2349039
+Mom-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c80000263cff0442ff
+你有个唱歌爱跑偏的朋友-抖音小助手-http://p1-dy.bytecdn.cn/obj/5e5400007f9c86e47d32
+爸爸有SWAG-抖音小助手-http://p3-dy.bytecdn.cn/obj/339200002c53027544df
+抖音听力考试-抖音小助手-http://p22-dy.bytecdn.cn/obj/29c50000228203b29abf
+在深夜打开手机一定闪瞎你的眼-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c900000ed523f292b9
+有个爱立“flag”的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/530f000155ee1fcb3e52
+不正经英文老师教“History”-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c7000022c08ae66a7c
+晚睡强迫症-抖音小助手-http://p9-dy.bytecdn.cn/obj/29c700002554a74e20b5
+普通妈妈vs佛系妈妈-抖音小助手-http://p9-dy.bytecdn.cn/obj/531100040769e9adf656
+当下课铃终于响起-抖音小助手-http://p3-dy.bytecdn.cn/obj/3a27000070e08a5e79fa
+来过来尝尝这个-抖音小助手-http://p9-dy.bytecdn.cn/obj/339100001c4ac55b5e68
+朋友对你的伤心表示略略略-抖音小助手-http://p3-dy.bytecdn.cn/obj/4dfc00042d6ceb3d733f
+我与老妈的歌品隔着一片太平洋-抖音小助手-http://p3-dy.bytecdn.cn/obj/33910002dd98bc035dbd
+真实的巨蟹座女孩其实是这样的-抖音小助手-http://p3-dy.bytecdn.cn/obj/9b4a00038b7014e29e65
+想搭讪的女孩一回头发现是前女友...-抖音小助手-http://p3-dy.bytecdn.cn/obj/572b000517d25fbb8187
+当你的脚趾头撞到床角时...-抖音小助手-http://p9-dy.bytecdn.cn/obj/571300005d04227803e6
+年轻人的圣诞节正确打开方式-抖音小助手-http://p3-dy.bytecdn.cn/obj/504f0001e12feccab4b6
+普通情侣vs佛系情侣-抖音小助手-http://p9-dy.bytecdn.cn/obj/530f0006650f3c0035ee
+有厕所吗？-抖音小助手-http://p9-dy.bytecdn.cn/obj/4d1c0002dd0e0c8275cd
+交个朋友吧-抖音小助手-http://p3-dy.bytecdn.cn/obj/4df70004290da5c0d25c
+什么歌都会唱的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/4df700027ebffc89dd32
+当你在很帅的运镜时碰到手...-抖音小助手-http://p3-dy.bytecdn.cn/obj/5e690000bea44fa69dd6
+朋友都是骗人的！-抖音小助手-http://p3-dy.bytecdn.cn/obj/4df500027cfad571f9a5
+有一个神烦的朋友（Part 2）-抖音小助手-http://p3-dy.bytecdn.cn/obj/4a160004e31647e22616
+三国杀日常一轮跪-抖音小助手-http://p22-dy.bytecdn.cn/obj/4a1a0002df2e3c5f220a
+当你朋友群在你睡觉聊天时-抖音小助手-http://p1-dy.bytecdn.cn/obj/42cd00066d3afd5c6939
+当你的朋友被一首歌洗脑-抖音小助手-http://p3-dy.bytecdn.cn/obj/439500020edd034036bd
+当被好友“删除好友”-抖音小助手-http://p3-dy.bytecdn.cn/obj/3c8300036eea0b1bd7e3
+Rap&Beatbox-抖音小助手-http://p3-dy.bytecdn.cn/obj/61a400040ed32fd00b79
+你有一个爱上厕所的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/42ad0000adede0cbe839
+漂洋过海来...？-抖音小助手-http://p9-dy.bytecdn.cn/obj/406100045bbe7bb9c668
+嘿兄弟-抖音小助手-http://p3-dy.bytecdn.cn/obj/406200044db254fcedd9
+不许吃我东西！-抖音小助手-http://p9-dy.bytecdn.cn/obj/339400048ef09c0f8ad3
+有个超能接歌的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/339200034c46848c5de5
+和最磨蹭的朋友约会之体验2-抖音小助手-http://p3-dy.bytecdn.cn/obj/339200003737925ac111
+有个从来不把话说完的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/339200003408b1e6c044
+闺蜜-许嵩-http://p3.pstatp.com/obj/339100002b6a0afffe72
+姐妹-张惠妹-http://p3-dy.bytecdn.cn/obj/3392000036392a8382d2
+一起走到-孙燕姿-http://p3-dy.bytecdn.cn/obj/33920000363aba6f1bfe
+Tonight, I Feel Close To You-孙燕姿,倉木麻衣-http://p3-dy.bytecdn.cn/obj/339100002b9cb3d8461a
+三人游-方大同-http://p9-dy.bytecdn.cn/obj/339200002c07847a1096
+有个超级喜欢拍照的盆友-抖音小助手-http://p3-dy.bytecdn.cn/obj/339500002ac1bc0edc86
+当你完全get不到朋友们的笑点时...-抖音小助手-http://p3-dy.bytecdn.cn/obj/339500002aea17578d2a
+这就是朋友之间的健身约定-抖音小助手-http://p9-dy.bytecdn.cn/obj/33910000245fc4596da7
+想要合张影怎么就这么难！-抖音小助手-http://p3-dy.bytecdn.cn/obj/339500002b608bc12557
+我有一个很“随便”的朋友-抖音小助手-http://p9-dy.bytecdn.cn/obj/29ca0000b64f64ec11d0
+当你有一个跟你作息时间相反的朋友-抖音小助手-http://p3-dy.bytecdn.cn/obj/339300001a409354e65f
+想亲个热怎么就这么难！-抖音小助手-http://p3-dy.bytecdn.cn/obj/339500001635f60ae7c3
+有一个很会吃辣的朋友-抖音小助手-http://p1-dy.bytecdn.cn/obj/29c4000003d66a0c5a29
+吹蜡烛不小心吹得太用力...-抖音小助手-http://p22-dy.bytecdn.cn/obj/33920000017043fcef26
+有一个会打呼噜的朋友真的让人很抓狂！-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c40000a4f43104da4f
+千万别惹失恋的人-抖音小助手-http://p3-dy.bytecdn.cn/obj/29c7000064c4b11d429e
+好兄弟单身时vs恋爱后-抖音小助手-http://p3-dy.bytecdn.cn/obj/29ca000049097a51dd22
+====================================搞怪====================================
+萨瓦迪卡-小猛-http://p3-dy.bytecdn.cn/obj/ies-music/1628503352620045.mp3
+我好穷-跟风超人-http://p9-dy.bytecdn.cn/obj/ies-music/1628323004935172.mp3
+好嗨哟disco剪辑版-MT1990-http://p3-dy.bytecdn.cn/obj/173860004ed4ff408dd42
+Egg & Pizza-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/155bc000374f7d076f46b
+老板听我说-搜索音乐-http://p9-dy.bytecdn.cn/obj/173a30004fec4d44771fc
+What Is Two & Seven-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/ies-music/1622699260739752.mp3
+盘他-南方北方-重庆塑星文化传媒有限公司-http://p3-dy.bytecdn.cn/obj/173870003445b7d6766a0
+Six-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1738b0001967f212e6da3
+Tree House Weekend-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/173af0000c68b310b5dd7
+哏都青年（剪辑版）-摇滚大鼓李亮节-http://p3-dy.bytecdn.cn/obj/17392000505ecf2ccd7f4
+Spin the Color Wheel-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1737c00002877259f15e5
+Happy Pets-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1739c0000285c5aacc1bc
+我的天呐 剪辑-小青岛-http://p22-dy.bytecdn.cn/obj/141150001a48cbf08e812
+My Colorful Chinatown-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/155a20004fdad4d10a706
+My Bronx-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/140100006c99614846642
+Five Senses-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/1558100054f6f0f2a589d
+Zoo Trip-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/155b000020689d5400c05
+Bones! Heart! Lungs!-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13ff40003a9c81e45a3ef
+Play with Toys-gogokid兴趣实验室-http://p1-dy.bytecdn.cn/obj/14095000465f0c6dad94d
+Plants-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/155b10000e0a6cf909fc1
+Count in Pairs-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1556a0006ebbd1aa4eb04
+Tiny Insects-gogokid兴趣实验室-http://p22-dy.bytecdn.cn/obj/1400f000351517c83f6d5
+Waka Waka 嘿嘿嘿-抖音小助手-http://p9-dy.bytecdn.cn/obj/1416d0005452ff7a0ba56
+The Muffin Man-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/140300003cc9908ff02fb
+Cock-a-Doodle-Doo-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1556900034b8940bbb988
+Water Sports-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/141220003d2b9b277c297
+哎哟小哥哥 剪辑-黄中柳說-http://p22-dy.bytecdn.cn/obj/140340002b3ecef93071d
+Wedding Day-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/ies-music/1622702570833927.mp3
+下辈子-玖壹壹-http://p3.pstatp.com/obj/f02c000315de6059dbfd
+Back with My Backpack-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/140e60003056db378632e
+Move Like Animals Do-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1409b00016c52aecbdfd9
+我要买（王德发版）-王德发-http://p3-dy.bytecdn.cn/obj/f2180000b019413b99cb
+Bingo!-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/13f81000289e4c59c10ca
+My Class-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13f6f00024c98594a3bf7
+死的心都有-安琥-http://p3-dy.bytecdn.cn/obj/1416e00049a853f35166f
+没关系呀~你不是抓到了我吗~-抖音小助手-http://p1.pstatp.com/obj/13f160001e2575d4b95bf
+Band Practice-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/140a800060c45a2f6eaa9
+Travel in NYC-gogokid兴趣实验室-http://p9-dy.bytecdn.cn/obj/140bc00053e0e213c911b
+真爱在哪里-陆超-http://p1-dy.bytecdn.cn/obj/13f58000468dd205a196d
+算命先生 剪輯版-楊影-http://sf-tk-sg.ibytedtos.com/obj/tiktok-obj/1618181771998209
+Mua~ 呕！-抖音小助手-http://p3-dy.bytecdn.cn/obj/f2d600043ac9e82da933
+Shooting-抖音小助手-http://p3-dy.bytecdn.cn/obj/f1750001ed316f1b4a83
+Barn Boogie-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/13f2e000593e9a40d053f
+Circle,Circle-gogokid兴趣实验室-http://p3-dy.bytecdn.cn/obj/1412a0005775b38265e13
+我是忐忑的泰山-抖音小助手-http://p22-dy.bytecdn.cn/obj/f05500017dfba91a21d1
+I'm fine-Hickey喜祺-http://p99.pstatp.com/obj/f20700043e1a11e7036c
+真好-嘿人李逵Noisemakers-http://p3-dy.bytecdn.cn/obj/d19a00014464f58c15e9
+我才不要做什么甜心宝贝！-抖音小助手-http://p3-dy.bytecdn.cn/obj/becb00019782528df33d
+江湖飘-剪辑版-蘑菇兄弟-http://p3-dy.bytecdn.cn/obj/aba20005a999ca844612
+每天起床第一句！-抖音小助手-http://p9-dy.bytecdn.cn/obj/a6c7000453bc9a01071a
+清晨醒来打开窗...-抖音小助手-http://p1-dy.bytecdn.cn/obj/a6ca000150287dd2c286
+我怎么对她你应该是植道-程野-http://p9-dy.bytecdn.cn/obj/9ff60000cf09f1a80a20
+你个小坏坏-跟风超人-http://p3-dy.bytecdn.cn/obj/be6c0003c8dbfa15c975
+意想不到的drop-抖音小助手-http://p3-dy.bytecdn.cn/obj/960a0002f30a6bdd199b
+321，爱就像。。。-抖音小助手-http://p3-dy.bytecdn.cn/obj/90d30006a56c4446fec5
+我喜欢陈道明-郭阳 郭亮-http://p1-dy.bytecdn.cn/obj/933700068887a18db8bc
+确认过眼神，遇到错的人-抖音小助手-http://p9-dy.bytecdn.cn/obj/90aa0000c3d2545117dd
+学Giao叫-抖音小助手-http://p3-dy.bytecdn.cn/obj/8b3e00069ae113c8f76a
+你不要喜欢我啊！-抖音小助手-http://p3-dy.bytecdn.cn/obj/8b3400055d1d4bc5fa59
+====================================经典====================================
+神雕侠侣 (《神雕侠侣》电视剧主题曲）-金佩珊 /张勇强-http://p22-dy.bytecdn.cn/obj/f1350000bd99990a8c0e
+Imagination（《看我七十二变》英文版）-Shaun Gibson-http://p22-dy.bytecdn.cn/obj/155660001772d0a75a74f
+归去来（《神雕侠侣》主题曲）-希莉娜依,胡兵-http://p9-dy.bytecdn.cn/obj/47c90000244d7168596b
+爱是寂寞撒的谎（剪辑版）-何沐阳-何沐阳-http://p3-dy.bytecdn.cn/obj/f336000588b8ae0ca60c
+沧海一声笑-许冠杰-http://p22-dy.bytecdn.cn/obj/29c200004bd9d91b7cbb
+任逍遥-任贤齐-http://p3-dy.bytecdn.cn/obj/f13c0001f61cc3a62292
+笑傲江湖-葉麗儀 & 葉振棠-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/d5/51/e6/d551e641-0363-b0bf-6803-3b9b6cf39b9c/mzaf_8023946500592450272.plus.aac.p.m4a
+铁血丹心-罗文,甄妮 -http://p9-dy.bytecdn.cn/obj/29ca00006ff94855140d
+愿能比翼飞-张国荣-http://p3-dy.bytecdn.cn/obj/f1390002870702bc22d3
+雪山飛狐-呂方 & 關菊英-https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/bf/39/c4/bf39c40d-659b-6157-8120-14227b7be24e/mzaf_3092412726219867024.plus.aac.p.m4a
+海阔天空-beyond-http://p22-dy.bytecdn.cn/obj/8dea0000860bff4e2223
+大地-BEYOND-http://p1-dy.bytecdn.cn/obj/4a100004c6432b43a884
+Hey Jude-孙燕姿-http://p1-dy.bytecdn.cn/obj/4a1a00021adbf43d326e
+你怎么舍得我难过-黄品源-http://p9-dy.bytecdn.cn/obj/4dfd0006a1f631bdd612
+哥只是个传说升级版-陈旭-http://p9-dy.bytecdn.cn/obj/b9820003770fada5f69e
+王鹤铮-爱我就跟我走-通力时代-http://p9-dy.bytecdn.cn/obj/d1d600030ada958a0c07
+共获取1118条数据

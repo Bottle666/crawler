@@ -1,0 +1,57 @@
+[
+  {
+    "name": "热门",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=1&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=b0299361441ac4cfeb342f46bb67e028&t=1553678124",
+    "shield": "cacd44b3654a6c2a6b244b406cdbd0a2"
+  },
+  {
+    "name": "vLog",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=5&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=df42190d24be7f0f47443cd800cafea1&t=1553674352",
+    "shield": "ddce87c1d591909aa46b801bb8a13534"
+  },
+  {
+    "name": "时尚",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=10&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=f42bf1c75c1e51912820ada7db2fac32&t=1553674475",
+    "shield": "b4db2aa2fca4f3b6bee1f323cf75d081"
+  },
+  {
+    "name": "美妆",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=3&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=34fe45980a7ae739867c4a7f563fb92e&t=1553674505",
+    "shield": "51994bc04b25c1ce216d3061a487ae23"
+  },
+  {
+    "name": "美食",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=4&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=c03f37c608d4e1351f6449a860e43cec&t=1553674572",
+    "shield": "5cce046e75d6df0e12ab56378004d3bf"
+  },
+  {
+    "name": "旅行",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=2&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=a63107b92b543056c4169cf5865a0bad&t=1553674692",
+    "shield": "a4980f3a72cd621aef560e9ebbc54b6e"
+  },
+  {
+    "name": "健身",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=6&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=eb0472d19500498502f070b32774dc49&t=1553674734",
+    "shield": "58378d4c7f87f5c07b6101ec73b16a90"
+  },
+  {
+    "name": "生活",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=12&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=bac69b6cad87c9c61c8902145021138b&t=1553674764",
+    "shield": "831d2e2229235ad2b9fbff2c3e0f3baa"
+  },
+  {
+    "name": "萌娃",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=28&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=36018b0d4617e5865ebb0c4a87294a78&t=1553674793",
+    "shield": "bd23d404fdbd5d927656b6fda7d289b5"
+  },
+  {
+    "name": "娱乐",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=29&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=a575f92c09d2705d576cf965b4c284fd&t=1553674816",
+    "shield": "46e6aa56458dbb3fa0c507a92b2317a1"
+  },
+  {
+    "name": "萌宠",
+    "url": "https://www.xiaohongshu.com/api/sns/v1/note/video/categoried_bgms?category_id=8&deviceId=00DC419E-BF4A-496D-AEEC-A3BB8258298E&device_fingerprint=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&device_fingerprint1=20190215094511f424e9fb8c8d5f4d5978a62ff60894ae01daf94228737073&lang=zh&page=1&page_size=20&platform=iOS&sid=session.1550195203993339158&sign=b31a853846bb4b9941e4bf1d3c29e174&t=1553674842",
+    "shield": "7c83638049c82b455a1cfa436b0e4003"
+  }
+]
